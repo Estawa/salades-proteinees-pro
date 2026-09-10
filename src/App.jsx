@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useState } from "react";
-import { Moon, Sun, Share2 } from "lucide-react";
+import { Moon, Sun, Share2, LayoutGrid, Beef, Fish, Leaf } from "lucide-react";
 import recipesData from "./data/recipes.json";
 import RecipeCard from "./components/RecipeCard";
 import RecipeDetail from "./components/RecipeDetail";
@@ -8,7 +8,12 @@ import ShareAppModal from "./components/ShareAppModal";
 import { getPhoto } from "./utils/photoStorage";
 import { getAllMeta, saveRecipeMeta } from "./utils/recipeMeta";
 
-const CATEGORIES = ["Toutes", "Viande", "Poisson", "Végétarien"];
+const CATEGORIES = [
+  { id: "Toutes", label: "Toutes", Icon: LayoutGrid },
+  { id: "Viande", label: "Viande", Icon: Beef },
+  { id: "Poisson", label: "Poisson", Icon: Fish },
+  { id: "Végétarien", label: "Végétarien", Icon: Leaf },
+];
 
 export default function App() {
   const [selectedId, setSelectedId] = useState(null);
@@ -109,7 +114,7 @@ export default function App() {
             <div>
               <h1 className="font-bold text-lg leading-tight">Salades Pro</h1>
               <p className="text-[11px] text-gray-500 dark:text-gray-400 leading-tight">
-                by C. Guilhem · v1.3
+                by C. Guilhem · v1.3.1
               </p>
             </div>
           </div>
@@ -122,32 +127,32 @@ export default function App() {
           </button>
         </div>
 
-        <div className="flex items-center justify-between gap-2 mt-3">
-          <div className="flex gap-2 overflow-x-auto no-scrollbar">
-            {CATEGORIES.map((c) => (
-              <button
-                key={c}
-                onClick={() => setCategory(c)}
-                className={`px-3 py-1.5 rounded-full text-sm whitespace-nowrap border transition ${
-                  category === c
-                    ? "bg-gray-900 dark:bg-white text-white dark:text-gray-900 border-gray-900 dark:border-white"
-                    : "border-gray-300 dark:border-gray-700 text-gray-600 dark:text-gray-300"
-                }`}
-              >
-                {c}
-              </button>
-            ))}
-          </div>
-          <div className="flex items-center gap-2 shrink-0">
-            <SortMenu value={sortBy} onChange={setSortBy} />
+        <div className="flex items-center gap-2 mt-3 overflow-x-auto no-scrollbar">
+          {CATEGORIES.map(({ id, label, Icon }) => (
             <button
-              onClick={() => setShareOpen(true)}
-              className="p-1.5 rounded-full border border-gray-300 dark:border-gray-700 active:bg-gray-100 dark:active:bg-gray-800"
-              aria-label="Partager l'application"
+              key={id}
+              onClick={() => setCategory(id)}
+              className={`flex items-center gap-1.5 px-3 py-1.5 rounded-full text-sm whitespace-nowrap border shrink-0 transition ${
+                category === id
+                  ? "bg-gray-900 dark:bg-white text-white dark:text-gray-900 border-gray-900 dark:border-white"
+                  : "border-gray-300 dark:border-gray-700 text-gray-600 dark:text-gray-300"
+              }`}
             >
-              <Share2 size={16} />
+              <Icon size={14} />
+              {label}
             </button>
-          </div>
+          ))}
+        </div>
+
+        <div className="flex items-center justify-end gap-2 mt-2">
+          <SortMenu value={sortBy} onChange={setSortBy} />
+          <button
+            onClick={() => setShareOpen(true)}
+            className="p-1.5 rounded-full border border-gray-300 dark:border-gray-700 active:bg-gray-100 dark:active:bg-gray-800 shrink-0"
+            aria-label="Partager l'application"
+          >
+            <Share2 size={16} />
+          </button>
         </div>
       </header>
 
