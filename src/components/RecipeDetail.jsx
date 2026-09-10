@@ -1,8 +1,14 @@
+import { useState } from "react";
 import { ArrowLeft } from "lucide-react";
 import PhotoCapture from "./PhotoCapture";
 import ProteinBadge from "./ProteinBadge";
+import ServingsAndShare from "./ServingsAndShare";
+import PriceEditor from "./PriceEditor";
+import { formatIngredientLine } from "../utils/scaling";
 
-export default function RecipeDetail({ recipe, photo, onPhotoChange, onBack }) {
+export default function RecipeDetail({ recipe, photo, onPhotoChange, price, onPriceChange, onBack }) {
+  const [servings, setServings] = useState(recipe.baseServings);
+
   return (
     <div className="pb-10">
       <div className="sticky top-0 z-10 bg-gray-50/90 dark:bg-gray-950/90 backdrop-blur px-4 py-3 flex items-center gap-3 border-b border-gray-200 dark:border-gray-800">
@@ -28,22 +34,28 @@ export default function RecipeDetail({ recipe, photo, onPhotoChange, onBack }) {
           </div>
         </div>
 
-        <div className="mt-3">
+        <div className="mt-3 flex items-center justify-between flex-wrap gap-2">
           <ProteinBadge grams={recipe.proteinPerServing} size="lg" />
+          <PriceEditor price={price} onPriceChange={onPriceChange} />
+        </div>
+
+        <div className="mt-4">
+          <ServingsAndShare recipe={recipe} servings={servings} onServingsChange={setServings} />
         </div>
 
         <section className="mt-6">
-          <h3 className="font-semibold mb-2">Ingrédients (5 portions)</h3>
+          <h3 className="font-semibold mb-2">
+            Ingrédients ({servings} portion{servings > 1 ? "s" : ""})
+          </h3>
           <div className="rounded-xl border border-gray-200 dark:border-gray-800 overflow-hidden">
             {recipe.ingredients.map((ing, i) => (
               <div
                 key={i}
-                className={`flex justify-between gap-4 px-3 py-2 text-sm ${
+                className={`px-3 py-2 text-sm ${
                   i % 2 === 0 ? "bg-white dark:bg-gray-900" : "bg-gray-50 dark:bg-gray-950"
                 }`}
               >
-                <span className="text-gray-500 dark:text-gray-400 shrink-0">{ing.qty}</span>
-                <span className="text-right">{ing.name}</span>
+                {formatIngredientLine(ing, recipe.baseServings, servings)}
               </div>
             ))}
           </div>
@@ -75,3 +87,4 @@ export default function RecipeDetail({ recipe, photo, onPhotoChange, onBack }) {
     </div>
   );
 }
+

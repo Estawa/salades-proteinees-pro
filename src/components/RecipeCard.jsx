@@ -1,7 +1,7 @@
 import { ImageOff } from "lucide-react";
 import ProteinBadge from "./ProteinBadge";
 
-export default function RecipeCard({ recipe, photo, onClick }) {
+export default function RecipeCard({ recipe, photo, price, onClick }) {
   return (
     <button
       onClick={onClick}
@@ -18,6 +18,11 @@ export default function RecipeCard({ recipe, photo, onClick }) {
         <div className="absolute top-2 right-2">
           <ProteinBadge grams={recipe.proteinPerServing} size="sm" />
         </div>
+        {price != null && (
+          <div className="absolute bottom-2 left-2 bg-white/90 dark:bg-gray-900/90 text-xs font-semibold px-2 py-0.5 rounded-full">
+            {price.toFixed(2)} €
+          </div>
+        )}
       </div>
       <div className="p-3">
         <p className="text-xs uppercase tracking-wide text-gray-500 dark:text-gray-400 font-medium">
@@ -28,3 +33,4 @@ export default function RecipeCard({ recipe, photo, onClick }) {
     </button>
   );
 }
+
