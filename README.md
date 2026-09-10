@@ -8,12 +8,30 @@ toi-même avec ton téléphone.
 
 - **Protéines par portion** : affichées en badge noir bien visible sur
   chaque carte de la liste, et en grand en haut de chaque fiche recette.
+- **Prix estimé** : sur chaque fiche recette, touche le prix (ou "Ajouter un
+  prix estimé") pour saisir le coût total de la recette. Il s'affiche ensuite
+  en badge sur la carte, et sert au tri par prix.
+- **Tri** : bouton en haut à droite de la liste — par protéines (croissant ou
+  décroissant), par prix (du moins cher au plus cher ou l'inverse), ou
+  alphabétique. Les recettes sans prix renseigné passent en fin de liste.
+- **Portions et partage** : sur la fiche recette, ajuste le nombre de
+  portions avec + / − : les quantités d'ingrédients se recalculent
+  automatiquement. Le bouton "Partager" ouvre le menu de partage du
+  téléphone (Messages, Mail, etc.), "WhatsApp" ouvre directement WhatsApp
+  avec la liste prête à envoyer, et l'icône copier met le texte dans le
+  presse-papiers.
 - **Photo par recette** : bouton "Prendre une photo" sur la fiche recette.
   Sur téléphone, ça ouvre directement l'appareil photo. La photo est stockée
   uniquement sur ton appareil (IndexedDB), pas sur un serveur — rien à
   configurer. Tu peux la changer à tout moment avec "Changer la photo".
 - **Filtre par catégorie** : Viande / Poisson / Végétarien, en haut de la liste.
 - **Mode jour/nuit** : bouton en haut à droite.
+- **Partager l'application** : icône en haut à droite de la liste — affiche un
+  QR code à scanner (pratique pour l'envoyer à un collègue en un coup d'œil),
+  et propose le partage natif du téléphone, un envoi direct sur WhatsApp, ou
+  la copie du lien. Le QR code encode l'adresse réelle de l'application, donc
+  il n'est utile qu'une fois déployée (sur Vercel par exemple) — en local il
+  pointera vers localhost.
 
 ## Lancer en local
 

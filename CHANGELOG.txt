@@ -1,5 +1,21 @@
 Salades Pro by C. Guilhem — Journal des modifications
 
+v1.3.0
+- Nouvelle icône de l'application : saladier en fond clair uni (sans dégradé)
+- Bouton de partage de l'application (icône en haut à droite de la liste) :
+  QR code à scanner, partage natif du téléphone, envoi direct sur WhatsApp,
+  ou copie du lien
+
+v1.2.0
+- Icône de l'application changée pour le saladier utilisé dans l'en-tête
+- Outil de tri : par protéines (croissant/décroissant), par prix, alphabétique
+- Prix estimé éditable par recette (stocké sur l'appareil), affiché sur la fiche
+  et en badge sur la carte
+- Portions ajustables sur la fiche recette : les quantités d'ingrédients se
+  recalculent automatiquement
+- Bouton Partager (menu de partage natif, WhatsApp direct, ou copier le texte)
+  qui envoie la liste d'ingrédients ajustée et les étapes de préparation
+
 v1.1.0
 - Passage de 25 à 52 recettes : une salade différente chaque semaine de l'année
 - Nouvelles protéines : agneau, chorizo, veau, canard confit, hareng fumé, truite fumée,
