@@ -1,0 +1,17 @@
+Salades Pro by C. Guilhem — Journal des modifications
+
+v1.1.0
+- Passage de 25 à 52 recettes : une salade différente chaque semaine de l'année
+- Nouvelles protéines : agneau, chorizo, veau, canard confit, hareng fumé, truite fumée,
+  gambas, crabe, calamars, bresaola, tempeh, seitan, brebis, et plus
+- Aucun changement de structure, les photos déjà prises restent en place
+
+v1.0.0
+- Version initiale : 25 recettes de salades protéinées meal-prep
+- Fiche recette avec ingrédients (5 portions), étapes numérotées et astuce de conservation
+- Taux de protéines par portion affiché en gros sur chaque carte et en tête de fiche
+- Photo par recette, prise directement avec l'appareil photo du téléphone ou choisie
+  dans la galerie, stockée uniquement sur l'appareil (aucun envoi sur un serveur)
+- Filtre par catégorie (Viande / Poisson / Végétarien)
+- Mode jour/nuit
+- Application installable (PWA), utilisable hors connexion une fois ouverte une première fois
