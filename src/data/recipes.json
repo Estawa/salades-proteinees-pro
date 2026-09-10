@@ -1,0 +1,2860 @@
+[
+  {
+    "id": "salade-quinoa-poulet-thon-et-feta",
+    "title": "Salade quinoa, poulet, thon et feta",
+    "category": "Viande & poisson",
+    "proteinPerServing": 40,
+    "desc": "Base de quinoa, poulet et thon, sans pois chiches. Environ 40g de protéines par portion.",
+    "ingredients": [
+      {
+        "qty": "250 g",
+        "name": "quinoa cru"
+      },
+      {
+        "qty": "600 g",
+        "name": "blancs de poulet"
+      },
+      {
+        "qty": "300 g",
+        "name": "thon au naturel égoutté"
+      },
+      {
+        "qty": "5",
+        "name": "grands œufs"
+      },
+      {
+        "qty": "200 g",
+        "name": "feta"
+      },
+      {
+        "qty": "1",
+        "name": "concombre"
+      },
+      {
+        "qty": "2",
+        "name": "poivron rouge"
+      },
+      {
+        "qty": "200 g",
+        "name": "carottes râpées"
+      },
+      {
+        "qty": "60 g",
+        "name": "graines de tournesol et courge"
+      },
+      {
+        "qty": "6 c. à soupe",
+        "name": "huile d'olive"
+      },
+      {
+        "qty": "3 c. à soupe",
+        "name": "vinaigre balsamique ou jus de citron"
+      },
+      {
+        "qty": "1 c. à soupe",
+        "name": "moutarde"
+      },
+      {
+        "qty": "1 c. à café",
+        "name": "sel"
+      },
+      {
+        "qty": "0,5 c. à café",
+        "name": "poivre"
+      },
+      {
+        "qty": "1 c. à café",
+        "name": "paprika ou cumin"
+      }
+    ],
+    "steps": [
+      "Rincez le quinoa puis cuire dans 2x son volume d'eau salée, à couvert, jusqu'à absorption complète.",
+      "Plongez les œufs dans l'eau bouillante 10 minutes pour des œufs durs.",
+      "Assaisonnez le poulet avec le paprika, sel et poivre. Cuire à la poêle ou au four jusqu'à cuisson complète, laissez refroidir avant de couper en dés.",
+      "Égouttez bien le thon pour éviter que le jus ne détrempe la salade au fil des jours.",
+      "Coupez le concombre et le poivron en petits dés.",
+      "Répartissez dans 5 boîtes : quinoa, poulet, thon, concombre, poivron, carottes, feta émiettée et un œuf dur coupé en deux par boîte. Gardez les graines à part.",
+      "Mélangez l'huile, le vinaigre, la moutarde, le sel et le poivre dans un petit bocal fermé. Ne versez jamais la sauce avant de manger.",
+      "Fermez hermétiquement chaque boîte et conservez au réfrigérateur jusqu'à jeudi soir."
+    ],
+    "notes": "Le thon au naturel se conserve très bien 4-5 jours et n'amollit pas comme les pois chiches. Variante sans poisson : tofu fumé mariné coupé en dés."
+  },
+  {
+    "id": "salade-grecque-au-riz-thon-et-feta",
+    "title": "Salade grecque au riz, thon et feta",
+    "category": "Poisson",
+    "proteinPerServing": 35,
+    "desc": "Riz complet, thon, olives et feta. Environ 35g de protéines par portion.",
+    "ingredients": [
+      {
+        "qty": "300 g",
+        "name": "riz complet cru"
+      },
+      {
+        "qty": "400 g",
+        "name": "thon au naturel égoutté"
+      },
+      {
+        "qty": "5",
+        "name": "grands œufs"
+      },
+      {
+        "qty": "150 g",
+        "name": "olives noires dénoyautées"
+      },
+      {
+        "qty": "200 g",
+        "name": "feta"
+      },
+      {
+        "qty": "2",
+        "name": "poivron jaune"
+      },
+      {
+        "qty": "1",
+        "name": "concombre"
+      },
+      {
+        "qty": "100 g",
+        "name": "oignon rouge"
+      },
+      {
+        "qty": "6 c. à soupe",
+        "name": "huile d'olive"
+      },
+      {
+        "qty": "3 c. à soupe",
+        "name": "jus de citron"
+      },
+      {
+        "qty": "1 c. à café",
+        "name": "origan séché"
+      },
+      {
+        "qty": "1 c. à café",
+        "name": "sel"
+      },
+      {
+        "qty": "0,5 c. à café",
+        "name": "poivre"
+      }
+    ],
+    "steps": [
+      "Rincez le riz et cuire dans 2x son volume d'eau salée jusqu'à absorption complète.",
+      "Plongez les œufs dans l'eau bouillante 10 minutes.",
+      "Coupez le poivron, le concombre et l'oignon en petits dés fins.",
+      "Répartissez dans 5 boîtes : riz, thon, olives, poivron, concombre, oignon rouge, feta émiettée et un œuf dur coupé en deux par boîte.",
+      "Mélangez l'huile, le jus de citron, l'origan, le sel et le poivre dans un bocal fermé, à verser au moment de manger.",
+      "Fermez hermétiquement et conservez au réfrigérateur jusqu'à jeudi soir."
+    ],
+    "notes": "L'oignon rouge et les olives se conservent très bien toute la semaine. Variante : remplacer le thon par des crevettes cuites décortiquées."
+  },
+  {
+    "id": "salade-asiatique-au-poulet-edamame-et-soba",
+    "title": "Salade asiatique au poulet, edamame et soba",
+    "category": "Viande",
+    "proteinPerServing": 38,
+    "desc": "Nouilles soba, poulet, edamame, chou rouge. Environ 38g de protéines par portion.",
+    "ingredients": [
+      {
+        "qty": "300 g",
+        "name": "nouilles soba"
+      },
+      {
+        "qty": "600 g",
+        "name": "blancs de poulet"
+      },
+      {
+        "qty": "300 g",
+        "name": "edamame écossés (surgelés)"
+      },
+      {
+        "qty": "5",
+        "name": "grands œufs"
+      },
+      {
+        "qty": "200 g",
+        "name": "carottes râpées"
+      },
+      {
+        "qty": "200 g",
+        "name": "chou rouge émincé"
+      },
+      {
+        "qty": "4",
+        "name": "oignons nouveaux"
+      },
+      {
+        "qty": "60 g",
+        "name": "graines de sésame"
+      },
+      {
+        "qty": "4 c. à soupe",
+        "name": "sauce soja"
+      },
+      {
+        "qty": "2 c. à soupe",
+        "name": "huile de sésame"
+      },
+      {
+        "qty": "2 c. à soupe",
+        "name": "vinaigre de riz"
+      },
+      {
+        "qty": "1 c. à café",
+        "name": "gingembre frais râpé"
+      },
+      {
+        "qty": "1 c. à café",
+        "name": "miel"
+      }
+    ],
+    "steps": [
+      "Cuire les nouilles soba selon les indications du paquet, puis rincez immédiatement à l'eau froide pour éviter qu'elles collent.",
+      "Assaisonnez le poulet de sel et poivre, cuire à la poêle ou au four, laissez refroidir puis coupez en lanières.",
+      "Faites cuire les edamame à l'eau bouillante ou à la vapeur 5 minutes.",
+      "Plongez les œufs dans l'eau bouillante 10 minutes.",
+      "Émincez le chou rouge et les oignons nouveaux.",
+      "Répartissez dans 5 boîtes : nouilles soba, poulet, edamame, carottes, chou rouge, oignons nouveaux et un œuf dur coupé en deux par boîte. Gardez les graines de sésame à part.",
+      "Mélangez la sauce soja, l'huile de sésame, le vinaigre de riz, le gingembre et le miel dans un bocal fermé, à verser au moment de manger.",
+      "Fermez hermétiquement et conservez au réfrigérateur jusqu'à jeudi soir."
+    ],
+    "notes": "Le chou rouge et les carottes restent croquants toute la semaine, contrairement au chou blanc qui ramollit plus vite."
+  },
+  {
+    "id": "salade-tex-mex-au-buf-hache-et-riz",
+    "title": "Salade tex-mex au bœuf haché et riz",
+    "category": "Viande",
+    "proteinPerServing": 42,
+    "desc": "Bœuf haché, riz, maïs et fromage. Environ 42g de protéines par portion.",
+    "ingredients": [
+      {
+        "qty": "300 g",
+        "name": "riz cru"
+      },
+      {
+        "qty": "600 g",
+        "name": "viande hachée de bœuf 5% MG"
+      },
+      {
+        "qty": "300 g",
+        "name": "maïs en grains égoutté"
+      },
+      {
+        "qty": "5",
+        "name": "grands œufs"
+      },
+      {
+        "qty": "200 g",
+        "name": "fromage à râper (emmental ou cheddar)"
+      },
+      {
+        "qty": "2",
+        "name": "poivron rouge"
+      },
+      {
+        "qty": "100 g",
+        "name": "oignon rouge"
+      },
+      {
+        "qty": "1",
+        "name": "citron vert"
+      },
+      {
+        "qty": "1 c. à café",
+        "name": "paprika fumé ou cumin"
+      },
+      {
+        "qty": "1 c. à café",
+        "name": "sel"
+      },
+      {
+        "qty": "0,5 c. à café",
+        "name": "poivre"
+      },
+      {
+        "qty": "6 c. à soupe",
+        "name": "huile d'olive"
+      }
+    ],
+    "steps": [
+      "Rincez le riz et cuire dans 2x son volume d'eau salée jusqu'à absorption complète.",
+      "Faites revenir le bœuf haché à la poêle avec le paprika, sel et poivre, jusqu'à coloration complète. Égouttez le gras en trop et laissez refroidir.",
+      "Plongez les œufs dans l'eau bouillante 10 minutes.",
+      "Coupez le poivron et l'oignon rouge en petits dés.",
+      "Répartissez dans 5 boîtes : riz, bœuf haché, maïs, poivron, oignon rouge, fromage râpé et un œuf dur coupé en deux par boîte.",
+      "Mélangez l'huile, le jus de citron vert, sel et poivre dans un bocal fermé, à verser au moment de manger.",
+      "Fermez hermétiquement et conservez au réfrigérateur jusqu'à jeudi soir."
+    ],
+    "notes": "La plus riche en protéines des quatre premières recettes. Ajoutez l'avocat frais uniquement le jour même si vous en voulez — il s'oxyde trop vite."
+  },
+  {
+    "id": "salade-libanaise-au-poulet-et-boulgour",
+    "title": "Salade libanaise au poulet et boulgour",
+    "category": "Viande",
+    "proteinPerServing": 38,
+    "desc": "Boulgour, poulet, menthe, sauce yaourt-citron. Environ 38g de protéines par portion.",
+    "ingredients": [
+      {
+        "qty": "280 g",
+        "name": "boulgour cru"
+      },
+      {
+        "qty": "600 g",
+        "name": "blancs de poulet"
+      },
+      {
+        "qty": "1",
+        "name": "concombre"
+      },
+      {
+        "qty": "100 g",
+        "name": "persil frais haché"
+      },
+      {
+        "qty": "30 g",
+        "name": "menthe fraîche hachée"
+      },
+      {
+        "qty": "200 g",
+        "name": "fromage de chèvre en bûche"
+      },
+      {
+        "qty": "60 g",
+        "name": "amandes effilées"
+      },
+      {
+        "qty": "300 g",
+        "name": "yaourt grec"
+      },
+      {
+        "qty": "2",
+        "name": "citron"
+      },
+      {
+        "qty": "1 c. à café",
+        "name": "ail"
+      },
+      {
+        "qty": "1 c. à café",
+        "name": "cumin"
+      },
+      {
+        "qty": "1 c. à café",
+        "name": "sel"
+      }
+    ],
+    "steps": [
+      "Cuire le boulgour selon le paquet (souvent trempage dans l'eau bouillante hors du feu).",
+      "Assaisonnez le poulet avec le cumin, sel et poivre. Cuire complètement puis laissez refroidir et coupez en dés.",
+      "Coupez le concombre en petits dés, hachez le persil et la menthe.",
+      "Répartissez dans 5 boîtes : boulgour, poulet, concombre, persil, menthe, fromage de chèvre émietté. Gardez les amandes à part.",
+      "Mélangez le yaourt grec, le jus de citron, l'ail et le sel dans un bocal fermé, à verser au moment de manger.",
+      "Conservez au réfrigérateur jusqu'à jeudi soir."
+    ],
+    "notes": "Le persil et la menthe se conservent bien s'ils sont bien séchés avant hachage."
+  },
+  {
+    "id": "salade-nordique-au-saumon-fume-et-riz",
+    "title": "Salade nordique au saumon fumé et riz",
+    "category": "Poisson",
+    "proteinPerServing": 32,
+    "desc": "Saumon fumé, riz complet, edamame, aneth. Environ 32g de protéines par portion.",
+    "ingredients": [
+      {
+        "qty": "300 g",
+        "name": "riz complet cru"
+      },
+      {
+        "qty": "400 g",
+        "name": "saumon fumé"
+      },
+      {
+        "qty": "300 g",
+        "name": "edamame écossés (surgelés)"
+      },
+      {
+        "qty": "5",
+        "name": "grands œufs"
+      },
+      {
+        "qty": "1",
+        "name": "concombre"
+      },
+      {
+        "qty": "30 g",
+        "name": "aneth frais"
+      },
+      {
+        "qty": "6 c. à soupe",
+        "name": "huile d'olive"
+      },
+      {
+        "qty": "2 c. à soupe",
+        "name": "jus de citron"
+      },
+      {
+        "qty": "1 c. à soupe",
+        "name": "moutarde à l'ancienne"
+      },
+      {
+        "qty": "1 c. à café",
+        "name": "sel"
+      }
+    ],
+    "steps": [
+      "Rincez le riz et cuire dans 2x son volume d'eau salée jusqu'à absorption complète.",
+      "Faites cuire les edamame à l'eau bouillante ou à la vapeur.",
+      "Plongez les œufs dans l'eau bouillante 10 minutes.",
+      "Coupez le saumon en lanières, le concombre en dés, hachez l'aneth.",
+      "Répartissez dans 5 boîtes : riz, saumon fumé, edamame, concombre, aneth et un œuf dur coupé en deux par boîte.",
+      "Mélangez l'huile, le jus de citron, la moutarde et le sel dans un bocal fermé, à verser au moment de manger.",
+      "Conservez au réfrigérateur jusqu'à jeudi soir."
+    ],
+    "notes": "Riche en oméga-3. Le saumon fumé se conserve très bien sous vide jusqu'à jeudi si bien fermé."
+  },
+  {
+    "id": "salade-italienne-a-la-dinde-fumee-et-brocoli",
+    "title": "Salade italienne à la dinde fumée et brocoli",
+    "category": "Viande",
+    "proteinPerServing": 36,
+    "desc": "Pâtes complètes, dinde fumée, brocoli, parmesan. Environ 36g de protéines par portion.",
+    "ingredients": [
+      {
+        "qty": "350 g",
+        "name": "pâtes complètes (type torsades)"
+      },
+      {
+        "qty": "500 g",
+        "name": "dinde fumée tranchée"
+      },
+      {
+        "qty": "400 g",
+        "name": "brocoli en petits bouquets"
+      },
+      {
+        "qty": "5",
+        "name": "grands œufs"
+      },
+      {
+        "qty": "150 g",
+        "name": "parmesan en copeaux"
+      },
+      {
+        "qty": "60 g",
+        "name": "pignons de pin"
+      },
+      {
+        "qty": "6 c. à soupe",
+        "name": "huile d'olive"
+      },
+      {
+        "qty": "2 c. à soupe",
+        "name": "vinaigre balsamique"
+      },
+      {
+        "qty": "1 c. à café",
+        "name": "ail"
+      },
+      {
+        "qty": "1 c. à café",
+        "name": "sel"
+      }
+    ],
+    "steps": [
+      "Cuire les pâtes al dente selon le paquet, puis rincez à l'eau froide.",
+      "Cuire le brocoli à la vapeur quelques minutes pour garder du croquant, puis passez sous l'eau froide.",
+      "Plongez les œufs dans l'eau bouillante 10 minutes.",
+      "Coupez la dinde fumée en lanières.",
+      "Répartissez dans 5 boîtes : pâtes, dinde, brocoli, parmesan et un œuf dur coupé en deux par boîte. Gardez les pignons à part.",
+      "Mélangez l'huile, le vinaigre, l'ail et le sel dans un bocal fermé, à verser au moment de manger.",
+      "Conservez au réfrigérateur jusqu'à jeudi soir."
+    ],
+    "notes": "Le brocoli cuit à la vapeur (pas trop) garde du croquant plusieurs jours, contrairement à bouilli."
+  },
+  {
+    "id": "salade-exotique-aux-crevettes-et-ananas",
+    "title": "Salade exotique aux crevettes et ananas",
+    "category": "Poisson",
+    "proteinPerServing": 30,
+    "desc": "Crevettes, riz basmati, ananas, noix de cajou. Environ 30g de protéines par portion.",
+    "ingredients": [
+      {
+        "qty": "300 g",
+        "name": "riz basmati cru"
+      },
+      {
+        "qty": "600 g",
+        "name": "crevettes cuites décortiquées"
+      },
+      {
+        "qty": "300 g",
+        "name": "ananas en morceaux (au naturel, égoutté)"
+      },
+      {
+        "qty": "2",
+        "name": "poivron rouge"
+      },
+      {
+        "qty": "100 g",
+        "name": "oignon rouge"
+      },
+      {
+        "qty": "60 g",
+        "name": "noix de cajou"
+      },
+      {
+        "qty": "30 g",
+        "name": "coriandre fraîche"
+      },
+      {
+        "qty": "3 c. à soupe",
+        "name": "huile de sésame"
+      },
+      {
+        "qty": "2 c. à soupe",
+        "name": "sauce soja"
+      },
+      {
+        "qty": "1 c. à soupe",
+        "name": "jus de citron vert"
+      }
+    ],
+    "steps": [
+      "Rincez le riz basmati et cuire dans 2x son volume d'eau salée jusqu'à absorption complète.",
+      "Vérifiez que les crevettes sont bien égouttées et séchées.",
+      "Coupez le poivron et l'oignon en petits dés, hachez la coriandre.",
+      "Répartissez dans 5 boîtes : riz, crevettes, ananas, poivron, oignon rouge, coriandre. Gardez les noix de cajou à part.",
+      "Mélangez l'huile de sésame, la sauce soja et le jus de citron vert dans un bocal fermé, à verser au moment de manger.",
+      "Conservez au réfrigérateur jusqu'à jeudi soir."
+    ],
+    "notes": "L'ananas en boîte au naturel se tient mieux dans la durée que l'ananas frais coupé."
+  },
+  {
+    "id": "salade-au-steak-hache-quinoa-noir-et-poivrons-grilles",
+    "title": "Salade au steak haché, quinoa noir et poivrons grillés",
+    "category": "Viande",
+    "proteinPerServing": 38,
+    "desc": "Steak haché, quinoa noir, poivrons grillés, mozzarella. Environ 38g de protéines par portion.",
+    "ingredients": [
+      {
+        "qty": "250 g",
+        "name": "quinoa noir cru"
+      },
+      {
+        "qty": "600 g",
+        "name": "steak haché 5% MG"
+      },
+      {
+        "qty": "3",
+        "name": "poivrons grillés (rouge et jaune)"
+      },
+      {
+        "qty": "200 g",
+        "name": "mozzarella en dés"
+      },
+      {
+        "qty": "60 g",
+        "name": "roquette ou pousses d'épinards"
+      },
+      {
+        "qty": "6 c. à soupe",
+        "name": "huile d'olive"
+      },
+      {
+        "qty": "2 c. à soupe",
+        "name": "vinaigre balsamique"
+      },
+      {
+        "qty": "1 c. à café",
+        "name": "sel"
+      },
+      {
+        "qty": "0,5 c. à café",
+        "name": "poivre"
+      }
+    ],
+    "steps": [
+      "Rincez le quinoa noir et cuire dans 2x son volume d'eau salée jusqu'à absorption complète.",
+      "Faites cuire le steak haché à la poêle, assaisonné de sel et poivre, puis laissez refroidir et coupez en morceaux.",
+      "Faites griller les poivrons au four jusqu'à ce que la peau noircisse, épluchez et coupez en lanières.",
+      "Répartissez dans 5 boîtes : quinoa noir, steak haché, poivrons grillés, mozzarella. Gardez la roquette à part, à ajouter le jour même.",
+      "Mélangez l'huile et le vinaigre dans un bocal fermé, à verser au moment de manger.",
+      "Conservez au réfrigérateur jusqu'à jeudi soir."
+    ],
+    "notes": "Les poivrons grillés maison (au four, épluchés) se conservent 4-5 jours sans problème. La roquette flétrit vite, à ajouter le jour même."
+  },
+  {
+    "id": "salade-facon-nicoise-au-thon-et-haricots-verts",
+    "title": "Salade façon niçoise au thon et haricots verts",
+    "category": "Poisson",
+    "proteinPerServing": 34,
+    "desc": "Pâtes, thon, olives, câpres, haricots verts. Environ 34g de protéines par portion.",
+    "ingredients": [
+      {
+        "qty": "350 g",
+        "name": "pâtes semi-complètes (type coquillettes)"
+      },
+      {
+        "qty": "400 g",
+        "name": "thon au naturel égoutté"
+      },
+      {
+        "qty": "300 g",
+        "name": "haricots verts"
+      },
+      {
+        "qty": "5",
+        "name": "grands œufs"
+      },
+      {
+        "qty": "150 g",
+        "name": "olives noires dénoyautées"
+      },
+      {
+        "qty": "30 g",
+        "name": "câpres égouttées"
+      },
+      {
+        "qty": "6 c. à soupe",
+        "name": "huile d'olive"
+      },
+      {
+        "qty": "2 c. à soupe",
+        "name": "vinaigre de vin"
+      },
+      {
+        "qty": "1 c. à soupe",
+        "name": "moutarde"
+      },
+      {
+        "qty": "1 c. à café",
+        "name": "sel"
+      }
+    ],
+    "steps": [
+      "Cuire les pâtes al dente selon le paquet, puis rincez à l'eau froide.",
+      "Cuire les haricots verts à l'eau bouillante quelques minutes pour qu'ils restent croquants, puis passez sous l'eau froide.",
+      "Plongez les œufs dans l'eau bouillante 10 minutes.",
+      "Répartissez dans 5 boîtes : pâtes, thon, haricots verts, olives, câpres et un œuf dur coupé en deux par boîte.",
+      "Mélangez l'huile, le vinaigre, la moutarde et le sel dans un bocal fermé, à verser au moment de manger.",
+      "Conservez au réfrigérateur jusqu'à jeudi soir."
+    ],
+    "notes": "Cuisez les haricots verts al dente pour qu'ils restent fermes toute la semaine."
+  },
+  {
+    "id": "salade-au-poulet-riz-sauvage-et-canneberges",
+    "title": "Salade au poulet, riz sauvage et canneberges",
+    "category": "Viande",
+    "proteinPerServing": 37,
+    "desc": "Riz sauvage, poulet, canneberges séchées, noix. Environ 37g de protéines par portion.",
+    "ingredients": [
+      {
+        "qty": "280 g",
+        "name": "riz sauvage ou mélange riz sauvage/basmati cru"
+      },
+      {
+        "qty": "600 g",
+        "name": "blancs de poulet"
+      },
+      {
+        "qty": "100 g",
+        "name": "canneberges séchées"
+      },
+      {
+        "qty": "80 g",
+        "name": "noix concassées"
+      },
+      {
+        "qty": "200 g",
+        "name": "fromage de chèvre en dés"
+      },
+      {
+        "qty": "200 g",
+        "name": "carottes râpées"
+      },
+      {
+        "qty": "6 c. à soupe",
+        "name": "huile d'olive"
+      },
+      {
+        "qty": "2 c. à soupe",
+        "name": "vinaigre balsamique"
+      },
+      {
+        "qty": "1 c. à café",
+        "name": "sel"
+      }
+    ],
+    "steps": [
+      "Rincez le riz sauvage et cuire selon le paquet (généralement plus long qu'un riz blanc).",
+      "Assaisonnez le poulet de sel et poivre, cuire complètement puis laissez refroidir et coupez en dés.",
+      "Répartissez dans 5 boîtes : riz sauvage, poulet, canneberges, fromage de chèvre, carottes. Gardez les noix à part.",
+      "Mélangez l'huile, le vinaigre et le sel dans un bocal fermé, à verser au moment de manger.",
+      "Conservez au réfrigérateur jusqu'à jeudi soir."
+    ],
+    "notes": "Canneberges et noix ne s'altèrent pas du tout sur 5 jours, parfait pour cette recette qui se bonifie même un peu."
+  },
+  {
+    "id": "salade-aux-sardines-riz-complet-et-persil-citron",
+    "title": "Salade aux sardines, riz complet et persil-citron",
+    "category": "Poisson",
+    "proteinPerServing": 33,
+    "desc": "Sardines, riz complet, poivron, persil-citron. Environ 33g de protéines par portion.",
+    "ingredients": [
+      {
+        "qty": "300 g",
+        "name": "riz complet cru"
+      },
+      {
+        "qty": "4",
+        "name": "boîtes de sardines au naturel égouttées"
+      },
+      {
+        "qty": "5",
+        "name": "grands œufs"
+      },
+      {
+        "qty": "2",
+        "name": "poivron rouge"
+      },
+      {
+        "qty": "100 g",
+        "name": "oignon rouge"
+      },
+      {
+        "qty": "40 g",
+        "name": "persil frais haché"
+      },
+      {
+        "qty": "6 c. à soupe",
+        "name": "huile d'olive"
+      },
+      {
+        "qty": "3 c. à soupe",
+        "name": "jus de citron"
+      },
+      {
+        "qty": "1 c. à café",
+        "name": "sel"
+      }
+    ],
+    "steps": [
+      "Rincez le riz et cuire dans 2x son volume d'eau salée jusqu'à absorption complète.",
+      "Plongez les œufs dans l'eau bouillante 10 minutes.",
+      "Émiettez grossièrement les sardines, coupez le poivron et l'oignon en petits dés, hachez le persil.",
+      "Répartissez dans 5 boîtes : riz, sardines, poivron, oignon rouge, persil et un œuf dur coupé en deux par boîte.",
+      "Mélangez l'huile, le jus de citron et le sel dans un bocal fermé, à verser au moment de manger.",
+      "Conservez au réfrigérateur jusqu'à jeudi soir."
+    ],
+    "notes": "Riche en oméga-3 et calcium. Les sardines en boîte se conservent très bien une fois ouvertes et mélangées."
+  },
+  {
+    "id": "salade-au-jambon-de-dinde-boulgour-et-petits-pois",
+    "title": "Salade au jambon de dinde, boulgour et petits pois",
+    "category": "Viande",
+    "proteinPerServing": 35,
+    "desc": "Boulgour, jambon de dinde, petits pois, feta. Environ 35g de protéines par portion.",
+    "ingredients": [
+      {
+        "qty": "280 g",
+        "name": "boulgour cru"
+      },
+      {
+        "qty": "500 g",
+        "name": "jambon de dinde en dés"
+      },
+      {
+        "qty": "300 g",
+        "name": "petits pois cuits"
+      },
+      {
+        "qty": "5",
+        "name": "grands œufs"
+      },
+      {
+        "qty": "200 g",
+        "name": "feta"
+      },
+      {
+        "qty": "1",
+        "name": "concombre"
+      },
+      {
+        "qty": "60 g",
+        "name": "graines de tournesol"
+      },
+      {
+        "qty": "6 c. à soupe",
+        "name": "huile d'olive"
+      },
+      {
+        "qty": "2 c. à soupe",
+        "name": "jus de citron"
+      },
+      {
+        "qty": "1 c. à café",
+        "name": "sel"
+      }
+    ],
+    "steps": [
+      "Cuire le boulgour selon le paquet.",
+      "Cuire les petits pois à l'eau bouillante quelques minutes, puis passez sous l'eau froide.",
+      "Plongez les œufs dans l'eau bouillante 10 minutes.",
+      "Coupez le concombre en petits dés.",
+      "Répartissez dans 5 boîtes : boulgour, jambon de dinde, petits pois, concombre, feta émiettée et un œuf dur coupé en deux par boîte. Gardez les graines à part.",
+      "Mélangez l'huile, le jus de citron et le sel dans un bocal fermé, à verser au moment de manger.",
+      "Conservez au réfrigérateur jusqu'à jeudi soir."
+    ],
+    "notes": "Les petits pois cuits supportent bien la conservation, contrairement aux petits pois crus."
+  },
+  {
+    "id": "salade-vegetarienne-aux-ufs-cottage-cheese-et-radis",
+    "title": "Salade végétarienne aux œufs, cottage cheese et radis",
+    "category": "Végétarien",
+    "proteinPerServing": 32,
+    "desc": "Œufs, cottage cheese, quinoa, radis. Environ 32g de protéines par portion.",
+    "ingredients": [
+      {
+        "qty": "250 g",
+        "name": "quinoa cru"
+      },
+      {
+        "qty": "10",
+        "name": "grands œufs"
+      },
+      {
+        "qty": "400 g",
+        "name": "cottage cheese ou fromage blanc épaissi"
+      },
+      {
+        "qty": "200 g",
+        "name": "radis"
+      },
+      {
+        "qty": "1",
+        "name": "concombre"
+      },
+      {
+        "qty": "30 g",
+        "name": "ciboulette fraîche"
+      },
+      {
+        "qty": "60 g",
+        "name": "graines de courge"
+      },
+      {
+        "qty": "4 c. à soupe",
+        "name": "huile d'olive"
+      },
+      {
+        "qty": "2 c. à soupe",
+        "name": "jus de citron"
+      },
+      {
+        "qty": "1 c. à café",
+        "name": "sel"
+      }
+    ],
+    "steps": [
+      "Rincez le quinoa et cuire dans 2x son volume d'eau salée jusqu'à absorption complète.",
+      "Plongez les œufs dans l'eau bouillante 10 minutes.",
+      "Coupez les radis et le concombre en fines rondelles, ciselez la ciboulette.",
+      "Répartissez dans 5 boîtes : quinoa, radis, concombre, ciboulette et 2 œufs durs coupés en deux par boîte. Mettez le cottage cheese dans un petit contenant séparé dans chaque boîte. Gardez les graines à part.",
+      "Mélangez l'huile, le jus de citron et le sel dans un bocal fermé, à verser au moment de manger.",
+      "Conservez au réfrigérateur jusqu'à jeudi soir."
+    ],
+    "notes": "Sans viande ni poisson. Gardez le cottage cheese dans un compartiment à part pour éviter qu'il détrempe le reste."
+  },
+  {
+    "id": "salade-au-maquereau-et-lentilles-vertes",
+    "title": "Salade au maquereau et lentilles vertes",
+    "category": "Poisson",
+    "proteinPerServing": 34,
+    "desc": "Maquereau, lentilles vertes, moutarde à l'ancienne. Environ 34g de protéines par portion.",
+    "ingredients": [
+      {
+        "qty": "300 g",
+        "name": "lentilles vertes cuites"
+      },
+      {
+        "qty": "4",
+        "name": "boîtes de maquereau au naturel égouttées"
+      },
+      {
+        "qty": "5",
+        "name": "grands œufs"
+      },
+      {
+        "qty": "1",
+        "name": "échalote"
+      },
+      {
+        "qty": "100 g",
+        "name": "carottes râpées"
+      },
+      {
+        "qty": "30 g",
+        "name": "persil frais haché"
+      },
+      {
+        "qty": "5 c. à soupe",
+        "name": "huile d'olive"
+      },
+      {
+        "qty": "2 c. à soupe",
+        "name": "vinaigre de cidre"
+      },
+      {
+        "qty": "1 c. à soupe",
+        "name": "moutarde à l'ancienne"
+      },
+      {
+        "qty": "1 c. à café",
+        "name": "sel"
+      }
+    ],
+    "steps": [
+      "Si vous partez de lentilles sèches, cuire dans l'eau non salée jusqu'à tendreté puis égoutter.",
+      "Plongez les œufs dans l'eau bouillante 10 minutes.",
+      "Émiettez grossièrement le maquereau, émincez l'échalote finement, hachez le persil.",
+      "Répartissez dans 5 boîtes : lentilles, maquereau, échalote, carottes, persil et un œuf dur coupé en deux par boîte.",
+      "Mélangez l'huile, le vinaigre, la moutarde et le sel dans un bocal fermé, à verser au moment de manger.",
+      "Conservez au réfrigérateur jusqu'à jeudi soir."
+    ],
+    "notes": "Riche en oméga-3. Les lentilles cuites gardent bien leur tenue et ne se transforment pas en purée."
+  },
+  {
+    "id": "salade-au-filet-mignon-de-porc-riz-et-pommes",
+    "title": "Salade au filet mignon de porc, riz et pommes",
+    "category": "Viande",
+    "proteinPerServing": 39,
+    "desc": "Filet mignon de porc, riz, pommes, noix. Environ 39g de protéines par portion.",
+    "ingredients": [
+      {
+        "qty": "300 g",
+        "name": "riz cru"
+      },
+      {
+        "qty": "600 g",
+        "name": "filet mignon de porc"
+      },
+      {
+        "qty": "2",
+        "name": "pommes acidulées (type granny smith)"
+      },
+      {
+        "qty": "200 g",
+        "name": "comté ou emmental en dés"
+      },
+      {
+        "qty": "80 g",
+        "name": "noix concassées"
+      },
+      {
+        "qty": "5 c. à soupe",
+        "name": "huile d'olive ou de noix"
+      },
+      {
+        "qty": "2 c. à soupe",
+        "name": "vinaigre de cidre"
+      },
+      {
+        "qty": "1 c. à café",
+        "name": "moutarde"
+      },
+      {
+        "qty": "1 c. à café",
+        "name": "sel"
+      }
+    ],
+    "steps": [
+      "Rincez le riz et cuire dans 2x son volume d'eau salée jusqu'à absorption complète.",
+      "Assaisonnez le porc de sel et poivre, cuire au four ou à la poêle jusqu'à cuisson complète, laissez refroidir puis coupez en tranches.",
+      "Coupez les pommes en dés et arrosez d'un filet de citron pour éviter l'oxydation.",
+      "Répartissez dans 5 boîtes : riz, porc, pommes, fromage. Gardez les noix à part.",
+      "Mélangez l'huile, le vinaigre, la moutarde et le sel dans un bocal fermé, à verser au moment de manger.",
+      "Conservez au réfrigérateur jusqu'à jeudi soir."
+    ],
+    "notes": "Coupez la pomme et arrosez-la immédiatement d'un filet de citron, ou coupez-la fraîche chaque jour."
+  },
+  {
+    "id": "salade-au-poulet-facon-curry-riz-et-raisins-secs",
+    "title": "Salade au poulet façon curry, riz et raisins secs",
+    "category": "Viande",
+    "proteinPerServing": 38,
+    "desc": "Poulet au curry, riz basmati, raisins secs, amandes. Environ 38g de protéines par portion.",
+    "ingredients": [
+      {
+        "qty": "300 g",
+        "name": "riz basmati cru"
+      },
+      {
+        "qty": "600 g",
+        "name": "blancs de poulet"
+      },
+      {
+        "qty": "2 c. à soupe",
+        "name": "curry en poudre"
+      },
+      {
+        "qty": "100 g",
+        "name": "raisins secs"
+      },
+      {
+        "qty": "80 g",
+        "name": "amandes effilées"
+      },
+      {
+        "qty": "200 g",
+        "name": "carottes râpées"
+      },
+      {
+        "qty": "300 g",
+        "name": "yaourt grec"
+      },
+      {
+        "qty": "1 c. à soupe",
+        "name": "jus de citron"
+      },
+      {
+        "qty": "1 c. à café",
+        "name": "sel"
+      }
+    ],
+    "steps": [
+      "Rincez le riz basmati et cuire dans 2x son volume d'eau salée jusqu'à absorption complète.",
+      "Assaisonnez le poulet avec le curry, sel et poivre. Cuire à la poêle jusqu'à cuisson complète, laissez refroidir puis coupez en dés.",
+      "Répartissez dans 5 boîtes : riz, poulet au curry, raisins secs, carottes. Gardez les amandes à part.",
+      "Mélangez le yaourt grec, le jus de citron et le sel dans un bocal fermé, à verser au moment de manger.",
+      "Conservez au réfrigérateur jusqu'à jeudi soir."
+    ],
+    "notes": "Cuisez le poulet directement avec le curry pour qu'il en imprègne bien la viande. Raisins secs et amandes se conservent sans souci."
+  },
+  {
+    "id": "salade-vegetarienne-a-l-halloumi-grille-et-boulgour",
+    "title": "Salade végétarienne à l'halloumi grillé et boulgour",
+    "category": "Végétarien",
+    "proteinPerServing": 30,
+    "desc": "Halloumi grillé, boulgour, courgettes grillées, menthe. Environ 30g de protéines par portion.",
+    "ingredients": [
+      {
+        "qty": "280 g",
+        "name": "boulgour cru"
+      },
+      {
+        "qty": "500 g",
+        "name": "fromage halloumi"
+      },
+      {
+        "qty": "3",
+        "name": "courgettes"
+      },
+      {
+        "qty": "5",
+        "name": "grands œufs"
+      },
+      {
+        "qty": "30 g",
+        "name": "menthe fraîche"
+      },
+      {
+        "qty": "60 g",
+        "name": "pignons de pin"
+      },
+      {
+        "qty": "5 c. à soupe",
+        "name": "huile d'olive"
+      },
+      {
+        "qty": "2 c. à soupe",
+        "name": "jus de citron"
+      },
+      {
+        "qty": "0,5 c. à café",
+        "name": "sel"
+      }
+    ],
+    "steps": [
+      "Cuire le boulgour selon le paquet.",
+      "Coupez l'halloumi en tranches et faites griller à la poêle sans matière grasse jusqu'à coloration, puis laissez refroidir.",
+      "Coupez les courgettes en tranches et faites griller à la poêle ou au four.",
+      "Plongez les œufs dans l'eau bouillante 10 minutes.",
+      "Répartissez dans 5 boîtes : boulgour, halloumi, courgettes, menthe hachée et un œuf dur coupé en deux par boîte. Gardez les pignons à part.",
+      "Mélangez l'huile, le jus de citron et le sel dans un bocal fermé, à verser au moment de manger.",
+      "Conservez au réfrigérateur jusqu'à jeudi soir."
+    ],
+    "notes": "Sans viande ni poisson. Attention au sel : l'halloumi est déjà salé."
+  },
+  {
+    "id": "salade-au-magret-de-canard-fume-et-lentilles",
+    "title": "Salade au magret de canard fumé et lentilles",
+    "category": "Viande",
+    "proteinPerServing": 35,
+    "desc": "Magret de canard fumé, lentilles vertes, noisettes, betteraves. Environ 35g de protéines par portion.",
+    "ingredients": [
+      {
+        "qty": "300 g",
+        "name": "lentilles vertes cuites"
+      },
+      {
+        "qty": "400 g",
+        "name": "magret de canard fumé tranché"
+      },
+      {
+        "qty": "200 g",
+        "name": "comté en copeaux"
+      },
+      {
+        "qty": "80 g",
+        "name": "noisettes concassées"
+      },
+      {
+        "qty": "200 g",
+        "name": "betteraves cuites en dés"
+      },
+      {
+        "qty": "5 c. à soupe",
+        "name": "huile d'olive"
+      },
+      {
+        "qty": "2 c. à soupe",
+        "name": "vinaigre balsamique"
+      },
+      {
+        "qty": "1 c. à café",
+        "name": "sel"
+      }
+    ],
+    "steps": [
+      "Si vous partez de lentilles sèches, cuire dans l'eau non salée jusqu'à tendreté puis égoutter.",
+      "Coupez le magret en lanières et les betteraves en dés.",
+      "Répartissez dans 5 boîtes : lentilles, magret fumé, betteraves, comté. Gardez les noisettes à part.",
+      "Mélangez l'huile, le vinaigre et le sel dans un bocal fermé, à verser au moment de manger.",
+      "Conservez au réfrigérateur jusqu'à jeudi soir."
+    ],
+    "notes": "Les betteraves cuites sous vide se conservent parfaitement toute la semaine."
+  },
+  {
+    "id": "salade-exotique-au-thon-quinoa-et-mangue",
+    "title": "Salade exotique au thon, quinoa et mangue",
+    "category": "Poisson",
+    "proteinPerServing": 30,
+    "desc": "Thon, quinoa, mangue, coriandre. Environ 30g de protéines par portion.",
+    "ingredients": [
+      {
+        "qty": "250 g",
+        "name": "quinoa cru"
+      },
+      {
+        "qty": "400 g",
+        "name": "thon au naturel égoutté"
+      },
+      {
+        "qty": "300 g",
+        "name": "mangue en morceaux (au naturel ou surgelée)"
+      },
+      {
+        "qty": "1",
+        "name": "poivron rouge"
+      },
+      {
+        "qty": "80 g",
+        "name": "noix de cajou"
+      },
+      {
+        "qty": "30 g",
+        "name": "coriandre fraîche"
+      },
+      {
+        "qty": "3 c. à soupe",
+        "name": "huile de sésame ou d'olive"
+      },
+      {
+        "qty": "2 c. à soupe",
+        "name": "jus de citron vert"
+      },
+      {
+        "qty": "1 c. à café",
+        "name": "sel"
+      }
+    ],
+    "steps": [
+      "Rincez le quinoa et cuire dans 2x son volume d'eau salée jusqu'à absorption complète.",
+      "Coupez le poivron en petits dés, hachez la coriandre.",
+      "Répartissez dans 5 boîtes : quinoa, thon, mangue, poivron, coriandre. Gardez les noix de cajou à part.",
+      "Mélangez l'huile, le jus de citron vert et le sel dans un bocal fermé, à verser au moment de manger.",
+      "Conservez au réfrigérateur jusqu'à jeudi soir."
+    ],
+    "notes": "La mangue en boîte au naturel ou surgelée tient bien mieux dans la durée que la mangue fraîche coupée."
+  },
+  {
+    "id": "salade-marocaine-au-poulet-et-couscous",
+    "title": "Salade marocaine au poulet et couscous",
+    "category": "Viande",
+    "proteinPerServing": 37,
+    "desc": "Couscous, poulet épicé, raisins secs, cannelle. Environ 37g de protéines par portion.",
+    "ingredients": [
+      {
+        "qty": "280 g",
+        "name": "semoule de couscous"
+      },
+      {
+        "qty": "600 g",
+        "name": "blancs de poulet"
+      },
+      {
+        "qty": "100 g",
+        "name": "raisins secs"
+      },
+      {
+        "qty": "80 g",
+        "name": "amandes effilées"
+      },
+      {
+        "qty": "200 g",
+        "name": "carottes râpées"
+      },
+      {
+        "qty": "30 g",
+        "name": "menthe fraîche hachée"
+      },
+      {
+        "qty": "1 c. à café",
+        "name": "cannelle en poudre"
+      },
+      {
+        "qty": "1 c. à café",
+        "name": "cumin"
+      },
+      {
+        "qty": "5 c. à soupe",
+        "name": "huile d'olive"
+      },
+      {
+        "qty": "2 c. à soupe",
+        "name": "jus de citron"
+      },
+      {
+        "qty": "1 c. à café",
+        "name": "sel"
+      }
+    ],
+    "steps": [
+      "Versez de l'eau bouillante salée sur la semoule (même volume), couvrez et laissez gonfler puis égrenez à la fourchette.",
+      "Assaisonnez le poulet avec la cannelle, le cumin, sel et poivre. Cuire à la poêle jusqu'à cuisson complète, laissez refroidir puis coupez en dés.",
+      "Répartissez dans 5 boîtes : couscous, poulet épicé, raisins secs, carottes, menthe. Gardez les amandes à part.",
+      "Mélangez l'huile, le jus de citron et le sel dans un bocal fermé, à verser au moment de manger.",
+      "Conservez au réfrigérateur jusqu'à jeudi soir."
+    ],
+    "notes": "La semoule se réhydrate en 5 minutes. Épices, raisins secs et amandes se conservent sans souci sur toute la semaine."
+  },
+  {
+    "id": "salade-de-pates-au-jambon-blanc-et-petits-pois",
+    "title": "Salade de pâtes au jambon blanc et petits pois",
+    "category": "Viande",
+    "proteinPerServing": 33,
+    "desc": "Jambon blanc, petits pois, emmental, cornichons. Environ 33g de protéines par portion.",
+    "ingredients": [
+      {
+        "qty": "350 g",
+        "name": "pâtes (type coquillettes ou fusilli)"
+      },
+      {
+        "qty": "500 g",
+        "name": "jambon blanc en dés"
+      },
+      {
+        "qty": "300 g",
+        "name": "petits pois cuits"
+      },
+      {
+        "qty": "200 g",
+        "name": "emmental en dés"
+      },
+      {
+        "qty": "80 g",
+        "name": "cornichons émincés"
+      },
+      {
+        "qty": "5",
+        "name": "grands œufs"
+      },
+      {
+        "qty": "5 c. à soupe",
+        "name": "huile d'olive"
+      },
+      {
+        "qty": "2 c. à soupe",
+        "name": "vinaigre"
+      },
+      {
+        "qty": "1 c. à soupe",
+        "name": "moutarde"
+      },
+      {
+        "qty": "1 c. à café",
+        "name": "sel"
+      }
+    ],
+    "steps": [
+      "Cuire les pâtes al dente selon le paquet, puis rincez à l'eau froide.",
+      "Cuire les petits pois à l'eau bouillante quelques minutes, puis passez sous l'eau froide.",
+      "Plongez les œufs dans l'eau bouillante 10 minutes.",
+      "Répartissez dans 5 boîtes : pâtes, jambon, petits pois, emmental, cornichons et un œuf dur coupé en deux par boîte.",
+      "Mélangez l'huile, le vinaigre, la moutarde et le sel dans un bocal fermé, à verser au moment de manger.",
+      "Conservez au réfrigérateur jusqu'à jeudi soir."
+    ],
+    "notes": "Plaira sûrement à toute la famille. Les cornichons et petits pois cuits se conservent parfaitement."
+  },
+  {
+    "id": "salade-au-cabillaud-poche-et-petits-pois",
+    "title": "Salade au cabillaud poché et petits pois",
+    "category": "Poisson",
+    "proteinPerServing": 30,
+    "desc": "Cabillaud poché, riz, petits pois, aneth. Environ 30g de protéines par portion.",
+    "ingredients": [
+      {
+        "qty": "300 g",
+        "name": "riz cru"
+      },
+      {
+        "qty": "600 g",
+        "name": "filets de cabillaud"
+      },
+      {
+        "qty": "300 g",
+        "name": "petits pois cuits"
+      },
+      {
+        "qty": "5",
+        "name": "grands œufs"
+      },
+      {
+        "qty": "1",
+        "name": "citron"
+      },
+      {
+        "qty": "30 g",
+        "name": "aneth frais"
+      },
+      {
+        "qty": "5 c. à soupe",
+        "name": "huile d'olive"
+      },
+      {
+        "qty": "1 c. à soupe",
+        "name": "moutarde"
+      },
+      {
+        "qty": "1 c. à café",
+        "name": "sel"
+      }
+    ],
+    "steps": [
+      "Rincez le riz et cuire dans 2x son volume d'eau salée jusqu'à absorption complète.",
+      "Pochez le cabillaud dans l'eau frémissante avec une tranche de citron pendant quelques minutes, jusqu'à ce qu'il s'émiette facilement. Égouttez et laissez refroidir.",
+      "Plongez les œufs dans l'eau bouillante 10 minutes.",
+      "Émiettez le cabillaud en gros morceaux, hachez l'aneth.",
+      "Répartissez dans 5 boîtes : riz, cabillaud émietté, petits pois, aneth et un œuf dur coupé en deux par boîte.",
+      "Mélangez l'huile, le jus de citron, la moutarde et le sel dans un bocal fermé, à verser au moment de manger.",
+      "Conservez au réfrigérateur jusqu'à jeudi soir."
+    ],
+    "notes": "Très léger en matières grasses. Émiettez bien le cabillaud pour qu'il se répartisse dans toute la salade."
+  },
+  {
+    "id": "salade-vegetarienne-aux-galettes-de-lentilles-corail",
+    "title": "Salade végétarienne aux galettes de lentilles corail",
+    "category": "Végétarien",
+    "proteinPerServing": 26,
+    "desc": "Galettes de lentilles corail maison, riz, légumes croquants. Environ 26g de protéines par portion.",
+    "ingredients": [
+      {
+        "qty": "250 g",
+        "name": "lentilles corail cuites (bien égouttées)"
+      },
+      {
+        "qty": "2",
+        "name": "grands œufs (pour lier)"
+      },
+      {
+        "qty": "60 g",
+        "name": "chapelure"
+      },
+      {
+        "qty": "1",
+        "name": "oignon émincé"
+      },
+      {
+        "qty": "1 c. à café",
+        "name": "cumin"
+      },
+      {
+        "qty": "300 g",
+        "name": "riz cru"
+      },
+      {
+        "qty": "200 g",
+        "name": "carottes râpées"
+      },
+      {
+        "qty": "1",
+        "name": "concombre"
+      },
+      {
+        "qty": "200 g",
+        "name": "feta"
+      },
+      {
+        "qty": "5 c. à soupe",
+        "name": "huile d'olive"
+      },
+      {
+        "qty": "2 c. à soupe",
+        "name": "jus de citron"
+      },
+      {
+        "qty": "1 c. à café",
+        "name": "sel"
+      }
+    ],
+    "steps": [
+      "Rincez le riz et cuire dans 2x son volume d'eau salée jusqu'à absorption complète.",
+      "Écrasez les lentilles corail à la fourchette, mélangez avec les œufs, la chapelure, l'oignon et le cumin. Formez des petites galettes.",
+      "Faites cuire les galettes à la poêle avec un filet d'huile jusqu'à coloration des deux côtés, puis laissez refroidir.",
+      "Coupez le concombre en dés.",
+      "Répartissez dans 5 boîtes : riz, 2-3 galettes par boîte, carottes, concombre, feta émiettée.",
+      "Mélangez l'huile, le jus de citron et le sel dans un bocal fermé, à verser au moment de manger.",
+      "Conservez au réfrigérateur jusqu'à jeudi soir."
+    ],
+    "notes": "Sans viande ni poisson. Les galettes se réchauffent bien 30 secondes au micro-ondes. Préparez-en le double, elles se congèlent très bien."
+  },
+  {
+    "id": "salade-vegetarienne-asiatique-au-tofu-fume-et-brocoli",
+    "title": "Salade végétarienne asiatique au tofu fumé et brocoli",
+    "category": "Végétarien",
+    "proteinPerServing": 24,
+    "desc": "Tofu fumé mariné, riz complet, brocoli, sésame. Environ 24g de protéines par portion.",
+    "ingredients": [
+      {
+        "qty": "300 g",
+        "name": "riz complet cru"
+      },
+      {
+        "qty": "500 g",
+        "name": "tofu fumé en dés"
+      },
+      {
+        "qty": "400 g",
+        "name": "brocoli en petits bouquets"
+      },
+      {
+        "qty": "200 g",
+        "name": "carottes râpées"
+      },
+      {
+        "qty": "3",
+        "name": "oignons nouveaux"
+      },
+      {
+        "qty": "60 g",
+        "name": "graines de sésame"
+      },
+      {
+        "qty": "4 c. à soupe",
+        "name": "sauce soja"
+      },
+      {
+        "qty": "2 c. à soupe",
+        "name": "huile de sésame"
+      },
+      {
+        "qty": "1 c. à café",
+        "name": "gingembre frais râpé"
+      }
+    ],
+    "steps": [
+      "Rincez le riz et cuire dans 2x son volume d'eau salée jusqu'à absorption complète.",
+      "Cuire le brocoli à la vapeur quelques minutes pour garder du croquant, puis passez sous l'eau froide.",
+      "Faites revenir le tofu quelques minutes à la poêle avec un filet de sauce soja, jusqu'à légère coloration.",
+      "Émincez les oignons nouveaux.",
+      "Répartissez dans 5 boîtes : riz, tofu, brocoli, carottes, oignons nouveaux. Gardez les graines de sésame à part.",
+      "Mélangez la sauce soja, l'huile de sésame et le gingembre dans un bocal fermé, à verser au moment de manger.",
+      "Conservez au réfrigérateur jusqu'à jeudi soir."
+    ],
+    "notes": "Sans viande ni poisson. Faites revenir le tofu quelques minutes à la poêle avec un peu de sauce soja pour plus de goût."
+  },
+  {
+    "id": "salade-a-la-truite-fumee-riz-noir-et-pomme",
+    "title": "Salade à la truite fumée, riz noir et pomme",
+    "category": "Poisson",
+    "proteinPerServing": 30,
+    "desc": "Truite fumée, riz noir, pomme et noix. Environ 30g de protéines par portion.",
+    "ingredients": [
+      {
+        "qty": "280 g",
+        "name": "riz noir (venere) cru"
+      },
+      {
+        "qty": "400 g",
+        "name": "truite fumée"
+      },
+      {
+        "qty": "2",
+        "name": "pommes acidulées"
+      },
+      {
+        "qty": "80 g",
+        "name": "noix concassées"
+      },
+      {
+        "qty": "1",
+        "name": "concombre"
+      },
+      {
+        "qty": "5 c. à soupe",
+        "name": "huile de noix ou d'olive"
+      },
+      {
+        "qty": "2 c. à soupe",
+        "name": "jus de citron"
+      },
+      {
+        "qty": "1 c. à café",
+        "name": "sel"
+      }
+    ],
+    "steps": [
+      "Rincez le riz noir et cuire selon le paquet (souvent 25-30 minutes).",
+      "Coupez la truite fumée en morceaux, les pommes en dés arrosés de citron, le concombre en dés.",
+      "Répartissez dans 5 boîtes : riz noir, truite fumée, pommes, concombre. Gardez les noix à part.",
+      "Mélangez l'huile, le jus de citron et le sel dans un bocal fermé, à verser au moment de manger.",
+      "Conservez au réfrigérateur jusqu'à jeudi soir."
+    ],
+    "notes": "Riche en oméga-3. Le riz noir garde une belle tenue et ne colle pas, parfait pour le meal-prep. Arrosez la pomme de citron pour éviter qu'elle noircisse."
+  },
+  {
+    "id": "salade-aux-gambas-epicees-riz-basmati-et-mangue",
+    "title": "Salade aux gambas épicées, riz basmati et mangue",
+    "category": "Poisson",
+    "proteinPerServing": 32,
+    "desc": "Gambas épicées, riz basmati, mangue et coriandre. Environ 32g de protéines par portion.",
+    "ingredients": [
+      {
+        "qty": "300 g",
+        "name": "riz basmati cru"
+      },
+      {
+        "qty": "600 g",
+        "name": "gambas ou grosses crevettes cuites décortiquées"
+      },
+      {
+        "qty": "300 g",
+        "name": "mangue en morceaux (au naturel ou surgelée)"
+      },
+      {
+        "qty": "1 c. à café",
+        "name": "piment doux ou paprika fort"
+      },
+      {
+        "qty": "30 g",
+        "name": "coriandre fraîche"
+      },
+      {
+        "qty": "1",
+        "name": "oignon rouge"
+      },
+      {
+        "qty": "3 c. à soupe",
+        "name": "huile d'olive"
+      },
+      {
+        "qty": "2 c. à soupe",
+        "name": "jus de citron vert"
+      },
+      {
+        "qty": "1 c. à café",
+        "name": "sel"
+      }
+    ],
+    "steps": [
+      "Rincez le riz basmati et cuire dans 2x son volume d'eau salée jusqu'à absorption complète.",
+      "Saupoudrez les gambas de paprika fort et mélangez bien.",
+      "Émincez l'oignon rouge, hachez la coriandre.",
+      "Répartissez dans 5 boîtes : riz, gambas épicées, mangue, oignon rouge, coriandre.",
+      "Mélangez l'huile, le jus de citron vert et le sel dans un bocal fermé, à verser au moment de manger.",
+      "Conservez au réfrigérateur jusqu'à jeudi soir."
+    ],
+    "notes": "Saupoudrez les gambas de paprika avant de les répartir pour plus de caractère — elles sont déjà cuites, pas besoin de recuire."
+  },
+  {
+    "id": "salade-aux-sardines-grillees-et-patate-douce-rotie",
+    "title": "Salade aux sardines grillées et patate douce rôtie",
+    "category": "Poisson",
+    "proteinPerServing": 28,
+    "desc": "Sardines grillées, patate douce rôtie et poivron. Environ 28g de protéines par portion.",
+    "ingredients": [
+      {
+        "qty": "700 g",
+        "name": "patate douce"
+      },
+      {
+        "qty": "700 g",
+        "name": "filets de sardines fraîches ou surgelées"
+      },
+      {
+        "qty": "2",
+        "name": "poivron rouge"
+      },
+      {
+        "qty": "5",
+        "name": "grands œufs"
+      },
+      {
+        "qty": "30 g",
+        "name": "persil frais haché"
+      },
+      {
+        "qty": "5 c. à soupe",
+        "name": "huile d'olive"
+      },
+      {
+        "qty": "2 c. à soupe",
+        "name": "jus de citron"
+      },
+      {
+        "qty": "1 c. à café",
+        "name": "sel"
+      }
+    ],
+    "steps": [
+      "Épluchez et coupez la patate douce en cubes, faites rôtir au four avec un filet d'huile jusqu'à tendreté.",
+      "Faites griller ou poser au four les filets de sardines, assaisonnés de sel et poivre, quelques minutes de chaque côté.",
+      "Plongez les œufs dans l'eau bouillante 10 minutes.",
+      "Coupez le poivron en petits dés, hachez le persil.",
+      "Répartissez dans 5 boîtes : patate douce, sardines, poivron, persil et un œuf dur coupé en deux par boîte.",
+      "Mélangez l'huile, le jus de citron et le sel dans un bocal fermé, à verser au moment de manger.",
+      "Conservez au réfrigérateur jusqu'à jeudi soir."
+    ],
+    "notes": "Riche en oméga-3 et calcium. La patate douce rôtie se tient très bien au frais 4-5 jours, contrairement à la pomme de terre bouillie qui devient farineuse."
+  },
+  {
+    "id": "salade-basque-au-brebis-jambon-de-bayonne-et-figues",
+    "title": "Salade basque au brebis, jambon de Bayonne et figues",
+    "category": "Viande",
+    "proteinPerServing": 34,
+    "desc": "Fromage de brebis, jambon de Bayonne, boulgour et figues séchées. Environ 34g de protéines par portion.",
+    "ingredients": [
+      {
+        "qty": "280 g",
+        "name": "boulgour cru"
+      },
+      {
+        "qty": "400 g",
+        "name": "jambon de Bayonne tranché"
+      },
+      {
+        "qty": "250 g",
+        "name": "fromage de brebis (ossau-iraty) en dés"
+      },
+      {
+        "qty": "100 g",
+        "name": "figues séchées coupées en morceaux"
+      },
+      {
+        "qty": "80 g",
+        "name": "noix concassées"
+      },
+      {
+        "qty": "5 c. à soupe",
+        "name": "huile d'olive"
+      },
+      {
+        "qty": "2 c. à soupe",
+        "name": "vinaigre balsamique"
+      },
+      {
+        "qty": "0,5 c. à café",
+        "name": "sel"
+      }
+    ],
+    "steps": [
+      "Cuire le boulgour selon le paquet.",
+      "Coupez le jambon de Bayonne en lanières.",
+      "Répartissez dans 5 boîtes : boulgour, jambon de Bayonne, brebis, figues séchées. Gardez les noix à part.",
+      "Mélangez l'huile, le vinaigre et le sel dans un bocal fermé, à verser au moment de manger.",
+      "Conservez au réfrigérateur jusqu'à jeudi soir."
+    ],
+    "notes": "Figues séchées et noix ne s'altèrent pas du tout sur 5 jours. Attention au sel : le jambon de Bayonne et la brebis sont déjà bien salés."
+  },
+  {
+    "id": "salade-a-l-agneau-grille-orge-perle-et-menthe",
+    "title": "Salade à l'agneau grillé, orge perlé et menthe",
+    "category": "Viande",
+    "proteinPerServing": 36,
+    "desc": "Agneau grillé, orge perlé, poivrons et menthe. Environ 36g de protéines par portion.",
+    "ingredients": [
+      {
+        "qty": "280 g",
+        "name": "orge perlé cru"
+      },
+      {
+        "qty": "600 g",
+        "name": "gigot ou filet d'agneau"
+      },
+      {
+        "qty": "2",
+        "name": "poivron rouge"
+      },
+      {
+        "qty": "200 g",
+        "name": "feta"
+      },
+      {
+        "qty": "30 g",
+        "name": "menthe fraîche hachée"
+      },
+      {
+        "qty": "1 c. à café",
+        "name": "cumin"
+      },
+      {
+        "qty": "5 c. à soupe",
+        "name": "huile d'olive"
+      },
+      {
+        "qty": "2 c. à soupe",
+        "name": "jus de citron"
+      },
+      {
+        "qty": "1 c. à café",
+        "name": "sel"
+      }
+    ],
+    "steps": [
+      "Rincez l'orge perlé et cuire dans 3x son volume d'eau salée jusqu'à tendreté, puis égouttez.",
+      "Assaisonnez l'agneau avec le cumin, sel et poivre. Cuire à la poêle ou au four, laissez refroidir puis coupez en tranches fines.",
+      "Coupez le poivron en petits dés.",
+      "Répartissez dans 5 boîtes : orge perlé, agneau, poivron, feta émiettée, menthe.",
+      "Mélangez l'huile, le jus de citron et le sel dans un bocal fermé, à verser au moment de manger.",
+      "Conservez au réfrigérateur jusqu'à jeudi soir."
+    ],
+    "notes": "L'orge perlé garde une bonne tenue, un peu comme le riz complet. Coupez l'agneau finement, il se mange froid sans problème."
+  },
+  {
+    "id": "salade-espagnole-au-chorizo-riz-et-mozzarella",
+    "title": "Salade espagnole au chorizo, riz et mozzarella",
+    "category": "Viande",
+    "proteinPerServing": 33,
+    "desc": "Chorizo, riz, poivrons et mozzarella. Environ 33g de protéines par portion.",
+    "ingredients": [
+      {
+        "qty": "300 g",
+        "name": "riz cru"
+      },
+      {
+        "qty": "400 g",
+        "name": "chorizo doux ou fort en dés"
+      },
+      {
+        "qty": "5",
+        "name": "grands œufs"
+      },
+      {
+        "qty": "2",
+        "name": "poivron rouge"
+      },
+      {
+        "qty": "200 g",
+        "name": "mozzarella en dés"
+      },
+      {
+        "qty": "30 g",
+        "name": "persil frais haché"
+      },
+      {
+        "qty": "4 c. à soupe",
+        "name": "huile d'olive"
+      },
+      {
+        "qty": "2 c. à soupe",
+        "name": "vinaigre de vin"
+      },
+      {
+        "qty": "0,5 c. à café",
+        "name": "sel"
+      }
+    ],
+    "steps": [
+      "Rincez le riz et cuire dans 2x son volume d'eau salée jusqu'à absorption complète.",
+      "Faites revenir le chorizo à la poêle quelques minutes jusqu'à légère coloration, réservez l'huile colorée rendue.",
+      "Plongez les œufs dans l'eau bouillante 10 minutes.",
+      "Coupez le poivron en petits dés, hachez le persil.",
+      "Répartissez dans 5 boîtes : riz, chorizo, poivron, mozzarella, persil et un œuf dur coupé en deux par boîte.",
+      "Mélangez l'huile d'olive, l'huile du chorizo, le vinaigre et le sel dans un bocal fermé, à verser au moment de manger.",
+      "Conservez au réfrigérateur jusqu'à jeudi soir."
+    ],
+    "notes": "Faites revenir le chorizo quelques minutes pour qu'il libère son huile parfumée, à mélanger ensuite dans la sauce. Déjà salé, allégez le sel ajouté."
+  },
+  {
+    "id": "salade-au-jambon-cru-epeautre-et-parmesan",
+    "title": "Salade au jambon cru, épeautre et parmesan",
+    "category": "Viande",
+    "proteinPerServing": 31,
+    "desc": "Jambon cru, épeautre et parmesan. Environ 31g de protéines par portion.",
+    "ingredients": [
+      {
+        "qty": "300 g",
+        "name": "épeautre cru"
+      },
+      {
+        "qty": "350 g",
+        "name": "jambon cru (Bayonne, Parme ou Serrano) tranché"
+      },
+      {
+        "qty": "150 g",
+        "name": "parmesan en copeaux"
+      },
+      {
+        "qty": "200 g",
+        "name": "tomates séchées à l'huile, égouttées"
+      },
+      {
+        "qty": "60 g",
+        "name": "pignons de pin"
+      },
+      {
+        "qty": "4 c. à soupe",
+        "name": "huile d'olive"
+      },
+      {
+        "qty": "2 c. à soupe",
+        "name": "vinaigre balsamique"
+      },
+      {
+        "qty": "0,5 c. à café",
+        "name": "sel"
+      }
+    ],
+    "steps": [
+      "Rincez l'épeautre et cuire dans 3x son volume d'eau salée jusqu'à tendreté, puis égouttez.",
+      "Coupez le jambon cru en lanières, les tomates séchées en morceaux.",
+      "Répartissez dans 5 boîtes : épeautre, jambon cru, tomates séchées, parmesan. Gardez les pignons à part.",
+      "Mélangez l'huile, le vinaigre et le sel dans un bocal fermé, à verser au moment de manger.",
+      "Conservez au réfrigérateur jusqu'à jeudi soir."
+    ],
+    "notes": "Les tomates séchées à l'huile ne rendent pas d'eau comme les tomates fraîches. Attention au sel, tout est déjà salé ici."
+  },
+  {
+    "id": "salade-mediterraneenne-aux-anchois-riz-et-olives",
+    "title": "Salade méditerranéenne aux anchois, riz et olives",
+    "category": "Poisson",
+    "proteinPerServing": 34,
+    "desc": "Anchois, riz, thon, olives et câpres. Environ 34g de protéines par portion.",
+    "ingredients": [
+      {
+        "qty": "300 g",
+        "name": "riz cru"
+      },
+      {
+        "qty": "200 g",
+        "name": "filets d'anchois à l'huile, égouttés"
+      },
+      {
+        "qty": "400 g",
+        "name": "thon au naturel égoutté"
+      },
+      {
+        "qty": "150 g",
+        "name": "olives noires dénoyautées"
+      },
+      {
+        "qty": "30 g",
+        "name": "câpres égouttées"
+      },
+      {
+        "qty": "2",
+        "name": "poivron jaune"
+      },
+      {
+        "qty": "5 c. à soupe",
+        "name": "huile d'olive"
+      },
+      {
+        "qty": "2 c. à soupe",
+        "name": "jus de citron"
+      }
+    ],
+    "steps": [
+      "Rincez le riz et cuire dans 2x son volume d'eau salée jusqu'à absorption complète.",
+      "Émiettez les filets d'anchois, coupez le poivron en petits dés.",
+      "Répartissez dans 5 boîtes : riz, anchois, thon, olives, câpres, poivron.",
+      "Mélangez l'huile et le jus de citron dans un bocal fermé, à verser au moment de manger.",
+      "Conservez au réfrigérateur jusqu'à jeudi soir."
+    ],
+    "notes": "Les anchois apportent le sel et le goût, pas besoin d'en rajouter dans la sauce. Le thon complète l'apport en protéines."
+  },
+  {
+    "id": "salade-au-crabe-riz-et-mangue",
+    "title": "Salade au crabe, riz et mangue",
+    "category": "Poisson",
+    "proteinPerServing": 26,
+    "desc": "Crabe (ou surimi), riz, mangue et coriandre. Environ 26g de protéines par portion.",
+    "ingredients": [
+      {
+        "qty": "300 g",
+        "name": "riz cru"
+      },
+      {
+        "qty": "500 g",
+        "name": "chair de crabe ou bâtonnets de surimi"
+      },
+      {
+        "qty": "5",
+        "name": "grands œufs"
+      },
+      {
+        "qty": "300 g",
+        "name": "mangue en morceaux (au naturel ou surgelée)"
+      },
+      {
+        "qty": "30 g",
+        "name": "coriandre fraîche"
+      },
+      {
+        "qty": "3 c. à soupe",
+        "name": "huile de sésame ou d'olive"
+      },
+      {
+        "qty": "2 c. à soupe",
+        "name": "jus de citron vert"
+      },
+      {
+        "qty": "1 c. à café",
+        "name": "sel"
+      }
+    ],
+    "steps": [
+      "Rincez le riz et cuire dans 2x son volume d'eau salée jusqu'à absorption complète.",
+      "Plongez les œufs dans l'eau bouillante 10 minutes.",
+      "Émiettez le crabe ou coupez le surimi en rondelles, hachez la coriandre.",
+      "Répartissez dans 5 boîtes : riz, crabe, mangue, coriandre et un œuf dur coupé en deux par boîte.",
+      "Mélangez l'huile, le jus de citron vert et le sel dans un bocal fermé, à verser au moment de manger.",
+      "Conservez au réfrigérateur jusqu'à jeudi soir."
+    ],
+    "notes": "Environ 26g de protéines par portion (davantage avec de la vraie chair de crabe qu'avec du surimi). Fraîche et légère."
+  },
+  {
+    "id": "salade-facon-tortilla-aux-ufs-pommes-de-terre-et-lardons",
+    "title": "Salade façon tortilla aux œufs, pommes de terre et lardons",
+    "category": "Viande",
+    "proteinPerServing": 27,
+    "desc": "Œufs, pommes de terre et lardons façon tortilla espagnole. Environ 27g de protéines par portion.",
+    "ingredients": [
+      {
+        "qty": "700 g",
+        "name": "pommes de terre à chair ferme"
+      },
+      {
+        "qty": "10",
+        "name": "grands œufs"
+      },
+      {
+        "qty": "200 g",
+        "name": "lardons fumés"
+      },
+      {
+        "qty": "80 g",
+        "name": "cornichons émincés"
+      },
+      {
+        "qty": "1",
+        "name": "oignon"
+      },
+      {
+        "qty": "5 c. à soupe",
+        "name": "huile d'olive"
+      },
+      {
+        "qty": "1 c. à soupe",
+        "name": "moutarde"
+      },
+      {
+        "qty": "2 c. à soupe",
+        "name": "vinaigre"
+      },
+      {
+        "qty": "1 c. à café",
+        "name": "sel"
+      }
+    ],
+    "steps": [
+      "Épluchez et coupez les pommes de terre en dés, cuire à l'eau bouillante jusqu'à tendreté, égouttez.",
+      "Faites revenir les lardons et l'oignon émincé à la poêle jusqu'à coloration.",
+      "Battez les œufs avec sel et poivre, versez sur les pommes de terre et les lardons dans la poêle, cuire à feu doux à couvert jusqu'à ce que ce soit pris, puis laissez refroidir et coupez en cubes.",
+      "Répartissez dans 5 boîtes : cubes de frittata, cornichons.",
+      "Mélangez l'huile, la moutarde, le vinaigre et le sel dans un bocal fermé, à verser au moment de manger.",
+      "Conservez au réfrigérateur jusqu'à jeudi soir."
+    ],
+    "notes": "La frittata cuite en poêle se coupe en dés une fois refroidie, comme une tortilla espagnole. Se mange froide ou réchauffée 30 secondes."
+  },
+  {
+    "id": "salade-aux-merguez-semoule-et-harissa-yaourt",
+    "title": "Salade aux merguez, semoule et harissa-yaourt",
+    "category": "Viande",
+    "proteinPerServing": 30,
+    "desc": "Merguez, semoule, poivrons et sauce harissa-yaourt. Environ 30g de protéines par portion.",
+    "ingredients": [
+      {
+        "qty": "280 g",
+        "name": "semoule de couscous"
+      },
+      {
+        "qty": "600 g",
+        "name": "merguez"
+      },
+      {
+        "qty": "2",
+        "name": "poivron rouge"
+      },
+      {
+        "qty": "200 g",
+        "name": "carottes râpées"
+      },
+      {
+        "qty": "30 g",
+        "name": "coriandre fraîche"
+      },
+      {
+        "qty": "300 g",
+        "name": "yaourt grec"
+      },
+      {
+        "qty": "1 c. à café",
+        "name": "harissa"
+      },
+      {
+        "qty": "1 c. à soupe",
+        "name": "jus de citron"
+      }
+    ],
+    "steps": [
+      "Versez de l'eau bouillante salée sur la semoule (même volume), couvrez et laissez gonfler puis égrenez à la fourchette.",
+      "Faites cuire les merguez à la poêle ou au four jusqu'à cuisson complète, laissez refroidir puis coupez en rondelles.",
+      "Coupez le poivron en petits dés, hachez la coriandre.",
+      "Répartissez dans 5 boîtes : couscous, merguez, poivron, carottes, coriandre.",
+      "Mélangez le yaourt grec, la harissa et le jus de citron dans un bocal fermé, à verser au moment de manger.",
+      "Conservez au réfrigérateur jusqu'à jeudi soir."
+    ],
+    "notes": "Réchauffez les merguez 30 secondes au micro-ondes si vous les préférez tièdes. Ajustez la harissa selon votre tolérance au piquant."
+  },
+  {
+    "id": "salade-facon-lyonnaise-aux-lardons-et-lentilles",
+    "title": "Salade façon lyonnaise aux lardons et lentilles",
+    "category": "Viande",
+    "proteinPerServing": 35,
+    "desc": "Lardons, lentilles vertes et moutarde. Environ 35g de protéines par portion.",
+    "ingredients": [
+      {
+        "qty": "300 g",
+        "name": "lentilles vertes cuites"
+      },
+      {
+        "qty": "300 g",
+        "name": "lardons fumés"
+      },
+      {
+        "qty": "10",
+        "name": "grands œufs"
+      },
+      {
+        "qty": "1",
+        "name": "échalote"
+      },
+      {
+        "qty": "30 g",
+        "name": "persil frais haché"
+      },
+      {
+        "qty": "4 c. à soupe",
+        "name": "huile d'olive"
+      },
+      {
+        "qty": "2 c. à soupe",
+        "name": "vinaigre de vin"
+      },
+      {
+        "qty": "1 c. à soupe",
+        "name": "moutarde"
+      },
+      {
+        "qty": "0,5 c. à café",
+        "name": "sel"
+      }
+    ],
+    "steps": [
+      "Si vous partez de lentilles sèches, cuire dans l'eau non salée jusqu'à tendreté puis égoutter.",
+      "Faites revenir les lardons à la poêle jusqu'à ce qu'ils soient bien dorés et croustillants, laissez refroidir.",
+      "Plongez les œufs dans l'eau bouillante 10 minutes.",
+      "Émincez l'échalote finement, hachez le persil.",
+      "Répartissez dans 5 boîtes : lentilles, lardons, échalote, persil et 2 œufs durs coupés en deux par boîte.",
+      "Mélangez l'huile, le vinaigre, la moutarde et le sel dans un bocal fermé, à verser au moment de manger.",
+      "Conservez au réfrigérateur jusqu'à jeudi soir."
+    ],
+    "notes": "Un clin d'œil à la salade lyonnaise sans la frisée qui flétrit. Faites revenir les lardons bien croustillants, ils gardent du croquant même froids."
+  },
+  {
+    "id": "salade-nordique-au-hareng-fume-et-pommes-de-terre",
+    "title": "Salade nordique au hareng fumé et pommes de terre",
+    "category": "Poisson",
+    "proteinPerServing": 26,
+    "desc": "Hareng fumé, pommes de terre, pomme et oignon rouge. Environ 26g de protéines par portion.",
+    "ingredients": [
+      {
+        "qty": "700 g",
+        "name": "pommes de terre à chair ferme"
+      },
+      {
+        "qty": "400 g",
+        "name": "filets de hareng fumé"
+      },
+      {
+        "qty": "2",
+        "name": "pommes acidulées"
+      },
+      {
+        "qty": "100 g",
+        "name": "oignon rouge"
+      },
+      {
+        "qty": "30 g",
+        "name": "aneth frais"
+      },
+      {
+        "qty": "4 c. à soupe",
+        "name": "huile d'olive"
+      },
+      {
+        "qty": "2 c. à soupe",
+        "name": "vinaigre de cidre"
+      },
+      {
+        "qty": "1 c. à café",
+        "name": "moutarde"
+      }
+    ],
+    "steps": [
+      "Épluchez et coupez les pommes de terre en dés, cuire à l'eau bouillante jusqu'à tendreté, égouttez et laissez refroidir.",
+      "Coupez le hareng fumé en morceaux, la pomme en dés, l'oignon rouge en fines lamelles, hachez l'aneth.",
+      "Répartissez dans 5 boîtes : pommes de terre, hareng, pomme, oignon rouge, aneth.",
+      "Mélangez l'huile, le vinaigre et la moutarde dans un bocal fermé, à verser au moment de manger.",
+      "Conservez au réfrigérateur jusqu'à jeudi soir."
+    ],
+    "notes": "Riche en oméga-3. Classique bistro revisité en meal-prep. Arrosez la pomme de citron pour éviter qu'elle noircisse."
+  },
+  {
+    "id": "salade-au-canard-confit-lentilles-et-figues",
+    "title": "Salade au canard confit, lentilles et figues",
+    "category": "Viande",
+    "proteinPerServing": 32,
+    "desc": "Canard confit effiloché, lentilles vertes, figues séchées et noisettes. Environ 32g de protéines par portion.",
+    "ingredients": [
+      {
+        "qty": "300 g",
+        "name": "lentilles vertes cuites"
+      },
+      {
+        "qty": "5",
+        "name": "cuisses de canard confit"
+      },
+      {
+        "qty": "100 g",
+        "name": "figues séchées coupées en morceaux"
+      },
+      {
+        "qty": "80 g",
+        "name": "noisettes concassées"
+      },
+      {
+        "qty": "200 g",
+        "name": "carottes râpées"
+      },
+      {
+        "qty": "4 c. à soupe",
+        "name": "huile d'olive"
+      },
+      {
+        "qty": "2 c. à soupe",
+        "name": "vinaigre balsamique"
+      },
+      {
+        "qty": "0,5 c. à café",
+        "name": "sel"
+      }
+    ],
+    "steps": [
+      "Si vous partez de lentilles sèches, cuire dans l'eau non salée jusqu'à tendreté puis égoutter.",
+      "Réchauffez légèrement les cuisses de canard confit pour faciliter l'effilochage, retirez la peau si vous le souhaitez, effilochez la chair à la fourchette.",
+      "Répartissez dans 5 boîtes : lentilles, canard effiloché, figues séchées, carottes. Gardez les noisettes à part.",
+      "Mélangez l'huile, le vinaigre et le sel dans un bocal fermé, à verser au moment de manger.",
+      "Conservez au réfrigérateur jusqu'à jeudi soir."
+    ],
+    "notes": "Réchauffez légèrement les cuisses pour effilocher plus facilement la chair. Un classique du Sud-Ouest façon meal-prep."
+  },
+  {
+    "id": "salade-au-veau-quinoa-et-courgettes-grillees",
+    "title": "Salade au veau, quinoa et courgettes grillées",
+    "category": "Viande",
+    "proteinPerServing": 37,
+    "desc": "Veau grillé, quinoa, courgettes grillées et menthe. Environ 37g de protéines par portion.",
+    "ingredients": [
+      {
+        "qty": "250 g",
+        "name": "quinoa cru"
+      },
+      {
+        "qty": "600 g",
+        "name": "escalopes de veau"
+      },
+      {
+        "qty": "3",
+        "name": "courgettes"
+      },
+      {
+        "qty": "200 g",
+        "name": "parmesan en copeaux"
+      },
+      {
+        "qty": "30 g",
+        "name": "menthe fraîche hachée"
+      },
+      {
+        "qty": "5 c. à soupe",
+        "name": "huile d'olive"
+      },
+      {
+        "qty": "2 c. à soupe",
+        "name": "jus de citron"
+      },
+      {
+        "qty": "1 c. à café",
+        "name": "sel"
+      }
+    ],
+    "steps": [
+      "Rincez le quinoa et cuire dans 2x son volume d'eau salée jusqu'à absorption complète.",
+      "Assaisonnez le veau de sel et poivre, cuire à la poêle quelques minutes de chaque côté sans trop cuire, laissez refroidir puis coupez en lanières.",
+      "Coupez les courgettes en tranches et faites griller à la poêle ou au four.",
+      "Répartissez dans 5 boîtes : quinoa, veau, courgettes grillées, parmesan, menthe.",
+      "Mélangez l'huile, le jus de citron et le sel dans un bocal fermé, à verser au moment de manger.",
+      "Conservez au réfrigérateur jusqu'à jeudi soir."
+    ],
+    "notes": "Ne cuisez pas trop le veau pour qu'il reste tendre une fois froid. Les courgettes grillées se conservent bien 4-5 jours."
+  },
+  {
+    "id": "salade-a-la-bresaola-riz-et-parmesan",
+    "title": "Salade à la bresaola, riz et parmesan",
+    "category": "Viande",
+    "proteinPerServing": 29,
+    "desc": "Bœuf séché (bresaola), riz, parmesan et pignons. Environ 29g de protéines par portion.",
+    "ingredients": [
+      {
+        "qty": "300 g",
+        "name": "riz cru"
+      },
+      {
+        "qty": "350 g",
+        "name": "bresaola (bœuf séché) tranchée"
+      },
+      {
+        "qty": "150 g",
+        "name": "parmesan en copeaux"
+      },
+      {
+        "qty": "150 g",
+        "name": "tomates séchées à l'huile, égouttées"
+      },
+      {
+        "qty": "60 g",
+        "name": "pignons de pin"
+      },
+      {
+        "qty": "4 c. à soupe",
+        "name": "huile d'olive"
+      },
+      {
+        "qty": "2 c. à soupe",
+        "name": "jus de citron"
+      }
+    ],
+    "steps": [
+      "Rincez le riz et cuire dans 2x son volume d'eau salée jusqu'à absorption complète.",
+      "Coupez la bresaola en lanières, les tomates séchées en morceaux.",
+      "Répartissez dans 5 boîtes : riz, bresaola, tomates séchées, parmesan. Gardez les pignons à part.",
+      "Mélangez l'huile et le jus de citron dans un bocal fermé, à verser au moment de manger.",
+      "Conservez au réfrigérateur jusqu'à jeudi soir."
+    ],
+    "notes": "La bresaola et le parmesan sont déjà salés, pas besoin d'en rajouter. Type \"carpaccio\" revisité pour tenir toute la semaine."
+  },
+  {
+    "id": "salade-vegetarienne-a-la-ricotta-epinards-et-quinoa",
+    "title": "Salade végétarienne à la ricotta, épinards et quinoa",
+    "category": "Végétarien",
+    "proteinPerServing": 24,
+    "desc": "Ricotta, épinards cuits, quinoa et noix. Environ 24g de protéines par portion.",
+    "ingredients": [
+      {
+        "qty": "250 g",
+        "name": "quinoa cru"
+      },
+      {
+        "qty": "500 g",
+        "name": "ricotta"
+      },
+      {
+        "qty": "400 g",
+        "name": "épinards frais"
+      },
+      {
+        "qty": "200 g",
+        "name": "carottes râpées"
+      },
+      {
+        "qty": "80 g",
+        "name": "noix concassées"
+      },
+      {
+        "qty": "4 c. à soupe",
+        "name": "huile d'olive"
+      },
+      {
+        "qty": "2 c. à soupe",
+        "name": "jus de citron"
+      },
+      {
+        "qty": "1 c. à café",
+        "name": "sel"
+      }
+    ],
+    "steps": [
+      "Rincez le quinoa et cuire dans 2x son volume d'eau salée jusqu'à absorption complète.",
+      "Faites tomber les épinards à la poêle quelques minutes jusqu'à ce qu'ils réduisent, égouttez bien l'eau rendue.",
+      "Répartissez dans 5 boîtes : quinoa, épinards, carottes. Mettez la ricotta dans un petit contenant séparé dans chaque boîte. Gardez les noix à part.",
+      "Mélangez l'huile, le jus de citron et le sel dans un bocal fermé, à verser au moment de manger.",
+      "Conservez au réfrigérateur jusqu'à jeudi soir."
+    ],
+    "notes": "Sans viande ni poisson. Faites tomber les épinards à la poêle pour réduire leur volume, ils se conservent alors bien mieux que crus."
+  },
+  {
+    "id": "salade-vegetarienne-au-tempeh-et-brocoli",
+    "title": "Salade végétarienne au tempeh et brocoli",
+    "category": "Végétarien",
+    "proteinPerServing": 27,
+    "desc": "Tempeh mariné, riz, brocoli et cacahuètes. Environ 27g de protéines par portion.",
+    "ingredients": [
+      {
+        "qty": "300 g",
+        "name": "riz complet cru"
+      },
+      {
+        "qty": "500 g",
+        "name": "tempeh en dés"
+      },
+      {
+        "qty": "400 g",
+        "name": "brocoli en petits bouquets"
+      },
+      {
+        "qty": "200 g",
+        "name": "carottes râpées"
+      },
+      {
+        "qty": "60 g",
+        "name": "cacahuètes concassées"
+      },
+      {
+        "qty": "4 c. à soupe",
+        "name": "sauce soja"
+      },
+      {
+        "qty": "2 c. à soupe",
+        "name": "huile de sésame"
+      },
+      {
+        "qty": "1 c. à café",
+        "name": "gingembre frais râpé"
+      }
+    ],
+    "steps": [
+      "Rincez le riz complet et cuire dans 2x son volume d'eau salée jusqu'à absorption complète.",
+      "Cuire le brocoli à la vapeur quelques minutes pour garder du croquant, puis passez sous l'eau froide.",
+      "Faites revenir le tempeh à la poêle avec un filet de sauce soja, jusqu'à légère coloration.",
+      "Répartissez dans 5 boîtes : riz, tempeh, brocoli, carottes. Gardez les cacahuètes à part.",
+      "Mélangez la sauce soja, l'huile de sésame et le gingembre dans un bocal fermé, à verser au moment de manger.",
+      "Conservez au réfrigérateur jusqu'à jeudi soir."
+    ],
+    "notes": "Sans viande ni poisson. Faites mariner et poêler le tempeh quelques minutes dans la sauce soja pour bien l'imprégner de goût."
+  },
+  {
+    "id": "salade-vegetarienne-au-seitan-facon-teriyaki",
+    "title": "Salade végétarienne au seitan façon teriyaki",
+    "category": "Végétarien",
+    "proteinPerServing": 26,
+    "desc": "Seitan façon teriyaki, riz et légumes. Environ 26g de protéines par portion.",
+    "ingredients": [
+      {
+        "qty": "300 g",
+        "name": "riz cru"
+      },
+      {
+        "qty": "500 g",
+        "name": "seitan en tranches"
+      },
+      {
+        "qty": "200 g",
+        "name": "carottes râpées"
+      },
+      {
+        "qty": "200 g",
+        "name": "pois gourmands ou haricots verts"
+      },
+      {
+        "qty": "3",
+        "name": "oignons nouveaux"
+      },
+      {
+        "qty": "60 g",
+        "name": "graines de sésame"
+      },
+      {
+        "qty": "4 c. à soupe",
+        "name": "sauce soja"
+      },
+      {
+        "qty": "1 c. à soupe",
+        "name": "miel"
+      },
+      {
+        "qty": "1 c. à soupe",
+        "name": "huile de sésame"
+      }
+    ],
+    "steps": [
+      "Rincez le riz et cuire dans 2x son volume d'eau salée jusqu'à absorption complète.",
+      "Faites revenir le seitan à la poêle avec la moitié de la sauce soja et le miel jusqu'à caramélisation légère, laissez refroidir puis coupez en lanières.",
+      "Cuire les pois gourmands à l'eau bouillante quelques minutes, puis passez sous l'eau froide.",
+      "Émincez les oignons nouveaux.",
+      "Répartissez dans 5 boîtes : riz, seitan, carottes, pois gourmands, oignons nouveaux. Gardez les graines de sésame à part.",
+      "Mélangez le reste de sauce soja et l'huile de sésame dans un bocal fermé, à verser au moment de manger.",
+      "Conservez au réfrigérateur jusqu'à jeudi soir."
+    ],
+    "notes": "Sans viande ni poisson. Faites revenir le seitan avec un peu de sauce soja et de miel pour un effet teriyaki caramélisé."
+  },
+  {
+    "id": "salade-au-poulet-fume-epeautre-et-pommes",
+    "title": "Salade au poulet fumé, épeautre et pommes",
+    "category": "Viande",
+    "proteinPerServing": 35,
+    "desc": "Poulet fumé, épeautre, pommes et noix. Environ 35g de protéines par portion.",
+    "ingredients": [
+      {
+        "qty": "300 g",
+        "name": "épeautre cru"
+      },
+      {
+        "qty": "500 g",
+        "name": "blancs de poulet fumé tranchés"
+      },
+      {
+        "qty": "2",
+        "name": "pommes acidulées"
+      },
+      {
+        "qty": "200 g",
+        "name": "comté en dés"
+      },
+      {
+        "qty": "80 g",
+        "name": "noix concassées"
+      },
+      {
+        "qty": "5 c. à soupe",
+        "name": "huile de noix ou d'olive"
+      },
+      {
+        "qty": "2 c. à soupe",
+        "name": "vinaigre de cidre"
+      },
+      {
+        "qty": "1 c. à café",
+        "name": "moutarde"
+      }
+    ],
+    "steps": [
+      "Rincez l'épeautre et cuire dans 3x son volume d'eau salée jusqu'à tendreté, puis égouttez.",
+      "Coupez le poulet fumé en lanières, les pommes en dés arrosés de citron.",
+      "Répartissez dans 5 boîtes : épeautre, poulet fumé, pommes, comté. Gardez les noix à part.",
+      "Mélangez l'huile, le vinaigre et la moutarde dans un bocal fermé, à verser au moment de manger.",
+      "Conservez au réfrigérateur jusqu'à jeudi soir."
+    ],
+    "notes": "Le poulet fumé du commerce est déjà cuit, pas besoin de cuisson supplémentaire. Arrosez la pomme de citron pour éviter qu'elle noircisse."
+  },
+  {
+    "id": "salade-facon-brunch-aux-ufs-saumon-fume-et-asperges",
+    "title": "Salade façon brunch aux œufs, saumon fumé et asperges",
+    "category": "Poisson",
+    "proteinPerServing": 30,
+    "desc": "Œufs, saumon fumé, asperges vertes et riz. Environ 30g de protéines par portion.",
+    "ingredients": [
+      {
+        "qty": "300 g",
+        "name": "riz cru"
+      },
+      {
+        "qty": "300 g",
+        "name": "saumon fumé"
+      },
+      {
+        "qty": "10",
+        "name": "grands œufs"
+      },
+      {
+        "qty": "400 g",
+        "name": "asperges vertes"
+      },
+      {
+        "qty": "30 g",
+        "name": "aneth ou ciboulette fraîche"
+      },
+      {
+        "qty": "4 c. à soupe",
+        "name": "huile d'olive"
+      },
+      {
+        "qty": "2 c. à soupe",
+        "name": "jus de citron"
+      },
+      {
+        "qty": "1 c. à café",
+        "name": "sel"
+      }
+    ],
+    "steps": [
+      "Rincez le riz et cuire dans 2x son volume d'eau salée jusqu'à absorption complète.",
+      "Coupez les extrémités dures des asperges, cuire à l'eau bouillante ou à la vapeur quelques minutes, puis passez sous l'eau froide et coupez en tronçons.",
+      "Plongez les œufs dans l'eau bouillante 10 minutes.",
+      "Coupez le saumon fumé en lanières, hachez l'aneth ou la ciboulette.",
+      "Répartissez dans 5 boîtes : riz, saumon fumé, asperges, aneth et un œuf dur coupé en deux par boîte.",
+      "Mélangez l'huile, le jus de citron et le sel dans un bocal fermé, à verser au moment de manger.",
+      "Conservez au réfrigérateur jusqu'à jeudi soir."
+    ],
+    "notes": "Les asperges vertes cuites al dente gardent une bonne tenue toute la semaine, contrairement à trop cuites."
+  },
+  {
+    "id": "salade-facon-poke-au-thon-riz-noir-et-edamame",
+    "title": "Salade façon poke au thon, riz noir et edamame",
+    "category": "Poisson",
+    "proteinPerServing": 33,
+    "desc": "Thon mi-cuit, riz noir, edamame et sésame. Environ 33g de protéines par portion.",
+    "ingredients": [
+      {
+        "qty": "280 g",
+        "name": "riz noir (venere) cru"
+      },
+      {
+        "qty": "600 g",
+        "name": "pavés de thon frais"
+      },
+      {
+        "qty": "300 g",
+        "name": "edamame écossés (surgelés)"
+      },
+      {
+        "qty": "1",
+        "name": "concombre"
+      },
+      {
+        "qty": "60 g",
+        "name": "graines de sésame"
+      },
+      {
+        "qty": "4 c. à soupe",
+        "name": "sauce soja"
+      },
+      {
+        "qty": "2 c. à soupe",
+        "name": "huile de sésame"
+      },
+      {
+        "qty": "1 c. à soupe",
+        "name": "jus de citron vert"
+      }
+    ],
+    "steps": [
+      "Rincez le riz noir et cuire selon le paquet (souvent 25-30 minutes).",
+      "Saisissez les pavés de thon à la poêle bien chaude quelques secondes de chaque côté pour un effet mi-cuit, laissez refroidir puis coupez en tranches.",
+      "Faites cuire les edamame à l'eau bouillante ou à la vapeur.",
+      "Coupez le concombre en dés.",
+      "Répartissez dans 5 boîtes : riz noir, thon, edamame, concombre. Gardez les graines de sésame à part.",
+      "Mélangez la sauce soja, l'huile de sésame et le jus de citron vert dans un bocal fermé, à verser au moment de manger.",
+      "Conservez au réfrigérateur jusqu'à jeudi soir."
+    ],
+    "notes": "Saisissez le thon quelques secondes de chaque côté pour un effet mi-cuit, ou cuisez-le complètement si vous préférez. Type poke bowl adapté au meal-prep."
+  },
+  {
+    "id": "salade-au-saumon-poele-riz-et-mangue",
+    "title": "Salade au saumon poêlé, riz et mangue",
+    "category": "Poisson",
+    "proteinPerServing": 32,
+    "desc": "Saumon poêlé, riz, mangue et graines de courge. Environ 32g de protéines par portion.",
+    "ingredients": [
+      {
+        "qty": "300 g",
+        "name": "riz cru"
+      },
+      {
+        "qty": "600 g",
+        "name": "pavés de saumon frais"
+      },
+      {
+        "qty": "300 g",
+        "name": "mangue en morceaux (au naturel ou surgelée)"
+      },
+      {
+        "qty": "1",
+        "name": "concombre"
+      },
+      {
+        "qty": "60 g",
+        "name": "graines de courge"
+      },
+      {
+        "qty": "3 c. à soupe",
+        "name": "huile d'olive"
+      },
+      {
+        "qty": "2 c. à soupe",
+        "name": "jus de citron vert"
+      },
+      {
+        "qty": "1 c. à café",
+        "name": "sel"
+      }
+    ],
+    "steps": [
+      "Rincez le riz et cuire dans 2x son volume d'eau salée jusqu'à absorption complète.",
+      "Assaisonnez le saumon de sel et poivre, cuire à la poêle côté peau quelques minutes puis retournez, laissez refroidir puis émiettez en gros morceaux.",
+      "Coupez le concombre en dés.",
+      "Répartissez dans 5 boîtes : riz, saumon, mangue, concombre. Gardez les graines de courge à part.",
+      "Mélangez l'huile, le jus de citron vert et le sel dans un bocal fermé, à verser au moment de manger.",
+      "Conservez au réfrigérateur jusqu'à jeudi soir."
+    ],
+    "notes": "Le saumon poêlé se réhydrate bien froid grâce à sa graisse naturelle. Ne le cuisez pas trop pour qu'il reste moelleux."
+  },
+  {
+    "id": "salade-thaie-aux-crevettes-riz-jasmin-et-citronnelle",
+    "title": "Salade thaïe aux crevettes, riz jasmin et citronnelle",
+    "category": "Poisson",
+    "proteinPerServing": 26,
+    "desc": "Crevettes, riz jasmin, citronnelle et cacahuètes. Environ 26g de protéines par portion.",
+    "ingredients": [
+      {
+        "qty": "300 g",
+        "name": "riz thai jasmin cru"
+      },
+      {
+        "qty": "600 g",
+        "name": "crevettes cuites décortiquées"
+      },
+      {
+        "qty": "200 g",
+        "name": "carottes râpées"
+      },
+      {
+        "qty": "30 g",
+        "name": "coriandre fraîche"
+      },
+      {
+        "qty": "60 g",
+        "name": "cacahuètes concassées"
+      },
+      {
+        "qty": "1 c. à café",
+        "name": "citronnelle finement hachée ou pastéisée en tube"
+      },
+      {
+        "qty": "3 c. à soupe",
+        "name": "sauce poisson (nuoc-mam)"
+      },
+      {
+        "qty": "2 c. à soupe",
+        "name": "jus de citron vert"
+      },
+      {
+        "qty": "1 c. à café",
+        "name": "sucre"
+      }
+    ],
+    "steps": [
+      "Rincez le riz jasmin et cuire dans 1,5x son volume d'eau salée jusqu'à absorption complète.",
+      "Hachez la coriandre.",
+      "Répartissez dans 5 boîtes : riz, crevettes, carottes, coriandre. Gardez les cacahuètes à part.",
+      "Mélangez la sauce poisson, la citronnelle, le jus de citron vert et le sucre dans un bocal fermé, à verser au moment de manger.",
+      "Conservez au réfrigérateur jusqu'à jeudi soir."
+    ],
+    "notes": "La sauce nuoc-mam citronnelle donne tout le caractère thaï à cette salade légère et parfumée. Ajustez le sucre selon votre goût."
+  },
+  {
+    "id": "salade-au-jambon-blanc-epeautre-et-petits-pois",
+    "title": "Salade au jambon blanc, épeautre et petits pois",
+    "category": "Viande",
+    "proteinPerServing": 34,
+    "desc": "Jambon blanc, épeautre, petits pois et comté. Environ 34g de protéines par portion.",
+    "ingredients": [
+      {
+        "qty": "300 g",
+        "name": "épeautre cru"
+      },
+      {
+        "qty": "500 g",
+        "name": "jambon blanc en dés"
+      },
+      {
+        "qty": "300 g",
+        "name": "petits pois cuits"
+      },
+      {
+        "qty": "200 g",
+        "name": "comté en dés"
+      },
+      {
+        "qty": "5",
+        "name": "grands œufs"
+      },
+      {
+        "qty": "5 c. à soupe",
+        "name": "huile d'olive"
+      },
+      {
+        "qty": "1 c. à soupe",
+        "name": "moutarde"
+      },
+      {
+        "qty": "2 c. à soupe",
+        "name": "vinaigre"
+      },
+      {
+        "qty": "0,5 c. à café",
+        "name": "sel"
+      }
+    ],
+    "steps": [
+      "Rincez l'épeautre et cuire dans 3x son volume d'eau salée jusqu'à tendreté, puis égouttez.",
+      "Cuire les petits pois à l'eau bouillante quelques minutes, puis passez sous l'eau froide.",
+      "Plongez les œufs dans l'eau bouillante 10 minutes.",
+      "Répartissez dans 5 boîtes : épeautre, jambon, petits pois, comté et un œuf dur coupé en deux par boîte.",
+      "Mélangez l'huile, la moutarde, le vinaigre et le sel dans un bocal fermé, à verser au moment de manger.",
+      "Conservez au réfrigérateur jusqu'à jeudi soir."
+    ],
+    "notes": "L'épeautre apporte un goût plus rustique que les pâtes pour cette variante familiale, avec une meilleure tenue dans la boîte."
+  },
+  {
+    "id": "salade-au-poulet-patate-douce-rotie-et-grenade",
+    "title": "Salade au poulet, patate douce rôtie et grenade",
+    "category": "Viande",
+    "proteinPerServing": 39,
+    "desc": "Poulet, patate douce rôtie, feta et grenade. Environ 39g de protéines par portion.",
+    "ingredients": [
+      {
+        "qty": "700 g",
+        "name": "patate douce"
+      },
+      {
+        "qty": "600 g",
+        "name": "blancs de poulet"
+      },
+      {
+        "qty": "200 g",
+        "name": "feta"
+      },
+      {
+        "qty": "100 g",
+        "name": "graines de grenade"
+      },
+      {
+        "qty": "60 g",
+        "name": "noix concassées"
+      },
+      {
+        "qty": "5 c. à soupe",
+        "name": "huile d'olive"
+      },
+      {
+        "qty": "2 c. à soupe",
+        "name": "jus de citron"
+      },
+      {
+        "qty": "1 c. à café",
+        "name": "sel"
+      }
+    ],
+    "steps": [
+      "Épluchez et coupez la patate douce en cubes, faites rôtir au four avec un filet d'huile jusqu'à tendreté.",
+      "Assaisonnez le poulet de sel et poivre, cuire à la poêle ou au four jusqu'à cuisson complète, laissez refroidir puis coupez en dés.",
+      "Répartissez dans 5 boîtes : patate douce, poulet, feta émiettée, graines de grenade. Gardez les noix à part.",
+      "Mélangez l'huile, le jus de citron et le sel dans un bocal fermé, à verser au moment de manger.",
+      "Conservez au réfrigérateur jusqu'à jeudi soir."
+    ],
+    "notes": "Les graines de grenade fraîches se conservent très bien 4-5 jours, elles apportent du croquant et de la couleur sans se dégrader."
+  },
+  {
+    "id": "salade-mediterraneenne-aux-calamars-grilles-et-riz",
+    "title": "Salade méditerranéenne aux calamars grillés et riz",
+    "category": "Poisson",
+    "proteinPerServing": 27,
+    "desc": "Calamars grillés, riz, poivrons et persil-citron. Environ 27g de protéines par portion.",
+    "ingredients": [
+      {
+        "qty": "300 g",
+        "name": "riz cru"
+      },
+      {
+        "qty": "600 g",
+        "name": "calamars (anneaux) nettoyés"
+      },
+      {
+        "qty": "2",
+        "name": "poivron rouge"
+      },
+      {
+        "qty": "1 c. à café",
+        "name": "ail"
+      },
+      {
+        "qty": "30 g",
+        "name": "persil frais haché"
+      },
+      {
+        "qty": "5 c. à soupe",
+        "name": "huile d'olive"
+      },
+      {
+        "qty": "2 c. à soupe",
+        "name": "jus de citron"
+      },
+      {
+        "qty": "1 c. à café",
+        "name": "sel"
+      }
+    ],
+    "steps": [
+      "Rincez le riz et cuire dans 2x son volume d'eau salée jusqu'à absorption complète.",
+      "Saisissez les calamars à la poêle très chaude avec l'ail, 2-3 minutes maximum, jusqu'à ce qu'ils soient juste opaques. Laissez refroidir.",
+      "Coupez le poivron en petits dés, hachez le persil.",
+      "Répartissez dans 5 boîtes : riz, calamars, poivron, persil.",
+      "Mélangez l'huile, le jus de citron et le sel dans un bocal fermé, à verser au moment de manger.",
+      "Conservez au réfrigérateur jusqu'à jeudi soir."
+    ],
+    "notes": "Très léger en matières grasses. Saisissez les calamars à feu vif très rapidement pour qu'ils restent tendres — une cuisson trop longue les rend caoutchouteux."
+  }
+]
