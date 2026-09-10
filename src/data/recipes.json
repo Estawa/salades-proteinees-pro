@@ -4,66 +4,82 @@
     "title": "Salade quinoa, poulet, thon et feta",
     "category": "Viande & poisson",
     "proteinPerServing": 40,
+    "baseServings": 5,
     "desc": "Base de quinoa, poulet et thon, sans pois chiches. Environ 40g de protéines par portion.",
     "ingredients": [
       {
-        "qty": "250 g",
+        "amount": 250.0,
+        "unit": "g",
         "name": "quinoa cru"
       },
       {
-        "qty": "600 g",
+        "amount": 600.0,
+        "unit": "g",
         "name": "blancs de poulet"
       },
       {
-        "qty": "300 g",
+        "amount": 300.0,
+        "unit": "g",
         "name": "thon au naturel égoutté"
       },
       {
-        "qty": "5",
+        "amount": 5.0,
+        "unit": "",
         "name": "grands œufs"
       },
       {
-        "qty": "200 g",
+        "amount": 200.0,
+        "unit": "g",
         "name": "feta"
       },
       {
-        "qty": "1",
+        "amount": 1.0,
+        "unit": "",
         "name": "concombre"
       },
       {
-        "qty": "2",
+        "amount": 2.0,
+        "unit": "",
         "name": "poivron rouge"
       },
       {
-        "qty": "200 g",
+        "amount": 200.0,
+        "unit": "g",
         "name": "carottes râpées"
       },
       {
-        "qty": "60 g",
+        "amount": 60.0,
+        "unit": "g",
         "name": "graines de tournesol et courge"
       },
       {
-        "qty": "6 c. à soupe",
+        "amount": 6.0,
+        "unit": "c. à soupe",
         "name": "huile d'olive"
       },
       {
-        "qty": "3 c. à soupe",
+        "amount": 3.0,
+        "unit": "c. à soupe",
         "name": "vinaigre balsamique ou jus de citron"
       },
       {
-        "qty": "1 c. à soupe",
+        "amount": 1.0,
+        "unit": "c. à soupe",
         "name": "moutarde"
       },
       {
-        "qty": "1 c. à café",
+        "amount": 1.0,
+        "unit": "c. à café",
         "name": "sel"
       },
       {
-        "qty": "0,5 c. à café",
+        "amount": 0.5,
+        "unit": "c. à café",
         "name": "poivre"
       },
       {
-        "qty": "1 c. à café",
+        "amount": 1.0,
+        "unit": "c. à café",
         "name": "paprika ou cumin"
       }
     ],
@@ -84,58 +100,72 @@
     "title": "Salade grecque au riz, thon et feta",
     "category": "Poisson",
     "proteinPerServing": 35,
+    "baseServings": 5,
     "desc": "Riz complet, thon, olives et feta. Environ 35g de protéines par portion.",
     "ingredients": [
       {
-        "qty": "300 g",
+        "amount": 300.0,
+        "unit": "g",
         "name": "riz complet cru"
       },
       {
-        "qty": "400 g",
+        "amount": 400.0,
+        "unit": "g",
         "name": "thon au naturel égoutté"
       },
       {
-        "qty": "5",
+        "amount": 5.0,
+        "unit": "",
         "name": "grands œufs"
       },
       {
-        "qty": "150 g",
+        "amount": 150.0,
+        "unit": "g",
         "name": "olives noires dénoyautées"
       },
       {
-        "qty": "200 g",
+        "amount": 200.0,
+        "unit": "g",
         "name": "feta"
       },
       {
-        "qty": "2",
+        "amount": 2.0,
+        "unit": "",
         "name": "poivron jaune"
       },
       {
-        "qty": "1",
+        "amount": 1.0,
+        "unit": "",
         "name": "concombre"
       },
       {
-        "qty": "100 g",
+        "amount": 100.0,
+        "unit": "g",
         "name": "oignon rouge"
       },
       {
-        "qty": "6 c. à soupe",
+        "amount": 6.0,
+        "unit": "c. à soupe",
         "name": "huile d'olive"
       },
       {
-        "qty": "3 c. à soupe",
+        "amount": 3.0,
+        "unit": "c. à soupe",
         "name": "jus de citron"
       },
       {
-        "qty": "1 c. à café",
+        "amount": 1.0,
+        "unit": "c. à café",
         "name": "origan séché"
       },
       {
-        "qty": "1 c. à café",
+        "amount": 1.0,
+        "unit": "c. à café",
         "name": "sel"
       },
       {
-        "qty": "0,5 c. à café",
+        "amount": 0.5,
+        "unit": "c. à café",
         "name": "poivre"
       }
     ],
@@ -154,58 +184,72 @@
     "title": "Salade asiatique au poulet, edamame et soba",
     "category": "Viande",
     "proteinPerServing": 38,
+    "baseServings": 5,
     "desc": "Nouilles soba, poulet, edamame, chou rouge. Environ 38g de protéines par portion.",
     "ingredients": [
       {
-        "qty": "300 g",
+        "amount": 300.0,
+        "unit": "g",
         "name": "nouilles soba"
       },
       {
-        "qty": "600 g",
+        "amount": 600.0,
+        "unit": "g",
         "name": "blancs de poulet"
       },
       {
-        "qty": "300 g",
+        "amount": 300.0,
+        "unit": "g",
         "name": "edamame écossés (surgelés)"
       },
       {
-        "qty": "5",
+        "amount": 5.0,
+        "unit": "",
         "name": "grands œufs"
       },
       {
-        "qty": "200 g",
+        "amount": 200.0,
+        "unit": "g",
         "name": "carottes râpées"
       },
       {
-        "qty": "200 g",
+        "amount": 200.0,
+        "unit": "g",
         "name": "chou rouge émincé"
       },
       {
-        "qty": "4",
+        "amount": 4.0,
+        "unit": "",
         "name": "oignons nouveaux"
       },
       {
-        "qty": "60 g",
+        "amount": 60.0,
+        "unit": "g",
         "name": "graines de sésame"
       },
       {
-        "qty": "4 c. à soupe",
+        "amount": 4.0,
+        "unit": "c. à soupe",
         "name": "sauce soja"
       },
       {
-        "qty": "2 c. à soupe",
+        "amount": 2.0,
+        "unit": "c. à soupe",
         "name": "huile de sésame"
       },
       {
-        "qty": "2 c. à soupe",
+        "amount": 2.0,
+        "unit": "c. à soupe",
         "name": "vinaigre de riz"
       },
       {
-        "qty": "1 c. à café",
+        "amount": 1.0,
+        "unit": "c. à café",
         "name": "gingembre frais râpé"
       },
       {
-        "qty": "1 c. à café",
+        "amount": 1.0,
+        "unit": "c. à café",
         "name": "miel"
       }
     ],
@@ -226,54 +270,67 @@
     "title": "Salade tex-mex au bœuf haché et riz",
     "category": "Viande",
     "proteinPerServing": 42,
+    "baseServings": 5,
     "desc": "Bœuf haché, riz, maïs et fromage. Environ 42g de protéines par portion.",
     "ingredients": [
       {
-        "qty": "300 g",
+        "amount": 300.0,
+        "unit": "g",
         "name": "riz cru"
       },
       {
-        "qty": "600 g",
+        "amount": 600.0,
+        "unit": "g",
         "name": "viande hachée de bœuf 5% MG"
       },
       {
-        "qty": "300 g",
+        "amount": 300.0,
+        "unit": "g",
         "name": "maïs en grains égoutté"
       },
       {
-        "qty": "5",
+        "amount": 5.0,
+        "unit": "",
         "name": "grands œufs"
       },
       {
-        "qty": "200 g",
+        "amount": 200.0,
+        "unit": "g",
         "name": "fromage à râper (emmental ou cheddar)"
       },
       {
-        "qty": "2",
+        "amount": 2.0,
+        "unit": "",
         "name": "poivron rouge"
       },
       {
-        "qty": "100 g",
+        "amount": 100.0,
+        "unit": "g",
         "name": "oignon rouge"
       },
       {
-        "qty": "1",
+        "amount": 1.0,
+        "unit": "",
         "name": "citron vert"
       },
       {
-        "qty": "1 c. à café",
+        "amount": 1.0,
+        "unit": "c. à café",
         "name": "paprika fumé ou cumin"
       },
       {
-        "qty": "1 c. à café",
+        "amount": 1.0,
+        "unit": "c. à café",
         "name": "sel"
       },
       {
-        "qty": "0,5 c. à café",
+        "amount": 0.5,
+        "unit": "c. à café",
         "name": "poivre"
       },
       {
-        "qty": "6 c. à soupe",
+        "amount": 6.0,
+        "unit": "c. à soupe",
         "name": "huile d'olive"
       }
     ],
@@ -293,54 +350,67 @@
     "title": "Salade libanaise au poulet et boulgour",
     "category": "Viande",
     "proteinPerServing": 38,
+    "baseServings": 5,
     "desc": "Boulgour, poulet, menthe, sauce yaourt-citron. Environ 38g de protéines par portion.",
     "ingredients": [
       {
-        "qty": "280 g",
+        "amount": 280.0,
+        "unit": "g",
         "name": "boulgour cru"
       },
       {
-        "qty": "600 g",
+        "amount": 600.0,
+        "unit": "g",
         "name": "blancs de poulet"
       },
       {
-        "qty": "1",
+        "amount": 1.0,
+        "unit": "",
         "name": "concombre"
       },
       {
-        "qty": "100 g",
+        "amount": 100.0,
+        "unit": "g",
         "name": "persil frais haché"
       },
       {
-        "qty": "30 g",
+        "amount": 30.0,
+        "unit": "g",
         "name": "menthe fraîche hachée"
       },
       {
-        "qty": "200 g",
+        "amount": 200.0,
+        "unit": "g",
         "name": "fromage de chèvre en bûche"
       },
       {
-        "qty": "60 g",
+        "amount": 60.0,
+        "unit": "g",
         "name": "amandes effilées"
       },
       {
-        "qty": "300 g",
+        "amount": 300.0,
+        "unit": "g",
         "name": "yaourt grec"
       },
       {
-        "qty": "2",
+        "amount": 2.0,
+        "unit": "",
         "name": "citron"
       },
       {
-        "qty": "1 c. à café",
+        "amount": 1.0,
+        "unit": "c. à café",
         "name": "ail"
       },
       {
-        "qty": "1 c. à café",
+        "amount": 1.0,
+        "unit": "c. à café",
         "name": "cumin"
       },
       {
-        "qty": "1 c. à café",
+        "amount": 1.0,
+        "unit": "c. à café",
         "name": "sel"
       }
     ],
@@ -359,46 +429,57 @@
     "title": "Salade nordique au saumon fumé et riz",
     "category": "Poisson",
     "proteinPerServing": 32,
+    "baseServings": 5,
     "desc": "Saumon fumé, riz complet, edamame, aneth. Environ 32g de protéines par portion.",
     "ingredients": [
       {
-        "qty": "300 g",
+        "amount": 300.0,
+        "unit": "g",
         "name": "riz complet cru"
       },
       {
-        "qty": "400 g",
+        "amount": 400.0,
+        "unit": "g",
         "name": "saumon fumé"
       },
       {
-        "qty": "300 g",
+        "amount": 300.0,
+        "unit": "g",
         "name": "edamame écossés (surgelés)"
       },
       {
-        "qty": "5",
+        "amount": 5.0,
+        "unit": "",
         "name": "grands œufs"
       },
       {
-        "qty": "1",
+        "amount": 1.0,
+        "unit": "",
         "name": "concombre"
       },
       {
-        "qty": "30 g",
+        "amount": 30.0,
+        "unit": "g",
         "name": "aneth frais"
       },
       {
-        "qty": "6 c. à soupe",
+        "amount": 6.0,
+        "unit": "c. à soupe",
         "name": "huile d'olive"
       },
       {
-        "qty": "2 c. à soupe",
+        "amount": 2.0,
+        "unit": "c. à soupe",
         "name": "jus de citron"
       },
       {
-        "qty": "1 c. à soupe",
+        "amount": 1.0,
+        "unit": "c. à soupe",
         "name": "moutarde à l'ancienne"
       },
       {
-        "qty": "1 c. à café",
+        "amount": 1.0,
+        "unit": "c. à café",
         "name": "sel"
       }
     ],
@@ -418,46 +499,57 @@
     "title": "Salade italienne à la dinde fumée et brocoli",
     "category": "Viande",
     "proteinPerServing": 36,
+    "baseServings": 5,
     "desc": "Pâtes complètes, dinde fumée, brocoli, parmesan. Environ 36g de protéines par portion.",
     "ingredients": [
       {
-        "qty": "350 g",
+        "amount": 350.0,
+        "unit": "g",
         "name": "pâtes complètes (type torsades)"
       },
       {
-        "qty": "500 g",
+        "amount": 500.0,
+        "unit": "g",
         "name": "dinde fumée tranchée"
       },
       {
-        "qty": "400 g",
+        "amount": 400.0,
+        "unit": "g",
         "name": "brocoli en petits bouquets"
       },
       {
-        "qty": "5",
+        "amount": 5.0,
+        "unit": "",
         "name": "grands œufs"
       },
       {
-        "qty": "150 g",
+        "amount": 150.0,
+        "unit": "g",
         "name": "parmesan en copeaux"
       },
       {
-        "qty": "60 g",
+        "amount": 60.0,
+        "unit": "g",
         "name": "pignons de pin"
       },
       {
-        "qty": "6 c. à soupe",
+        "amount": 6.0,
+        "unit": "c. à soupe",
         "name": "huile d'olive"
       },
       {
-        "qty": "2 c. à soupe",
+        "amount": 2.0,
+        "unit": "c. à soupe",
         "name": "vinaigre balsamique"
       },
       {
-        "qty": "1 c. à café",
+        "amount": 1.0,
+        "unit": "c. à café",
         "name": "ail"
       },
       {
-        "qty": "1 c. à café",
+        "amount": 1.0,
+        "unit": "c. à café",
         "name": "sel"
       }
     ],
@@ -477,46 +569,57 @@
     "title": "Salade exotique aux crevettes et ananas",
     "category": "Poisson",
     "proteinPerServing": 30,
+    "baseServings": 5,
     "desc": "Crevettes, riz basmati, ananas, noix de cajou. Environ 30g de protéines par portion.",
     "ingredients": [
       {
-        "qty": "300 g",
+        "amount": 300.0,
+        "unit": "g",
         "name": "riz basmati cru"
       },
       {
-        "qty": "600 g",
+        "amount": 600.0,
+        "unit": "g",
         "name": "crevettes cuites décortiquées"
       },
       {
-        "qty": "300 g",
+        "amount": 300.0,
+        "unit": "g",
         "name": "ananas en morceaux (au naturel, égoutté)"
       },
       {
-        "qty": "2",
+        "amount": 2.0,
+        "unit": "",
         "name": "poivron rouge"
       },
       {
-        "qty": "100 g",
+        "amount": 100.0,
+        "unit": "g",
         "name": "oignon rouge"
       },
       {
-        "qty": "60 g",
+        "amount": 60.0,
+        "unit": "g",
         "name": "noix de cajou"
       },
       {
-        "qty": "30 g",
+        "amount": 30.0,
+        "unit": "g",
         "name": "coriandre fraîche"
       },
       {
-        "qty": "3 c. à soupe",
+        "amount": 3.0,
+        "unit": "c. à soupe",
         "name": "huile de sésame"
       },
       {
-        "qty": "2 c. à soupe",
+        "amount": 2.0,
+        "unit": "c. à soupe",
         "name": "sauce soja"
       },
       {
-        "qty": "1 c. à soupe",
+        "amount": 1.0,
+        "unit": "c. à soupe",
         "name": "jus de citron vert"
       }
     ],
@@ -535,42 +638,52 @@
     "title": "Salade au steak haché, quinoa noir et poivrons grillés",
     "category": "Viande",
     "proteinPerServing": 38,
+    "baseServings": 5,
     "desc": "Steak haché, quinoa noir, poivrons grillés, mozzarella. Environ 38g de protéines par portion.",
     "ingredients": [
       {
-        "qty": "250 g",
+        "amount": 250.0,
+        "unit": "g",
         "name": "quinoa noir cru"
       },
       {
-        "qty": "600 g",
+        "amount": 600.0,
+        "unit": "g",
         "name": "steak haché 5% MG"
       },
       {
-        "qty": "3",
+        "amount": 3.0,
+        "unit": "",
         "name": "poivrons grillés (rouge et jaune)"
       },
       {
-        "qty": "200 g",
+        "amount": 200.0,
+        "unit": "g",
         "name": "mozzarella en dés"
       },
       {
-        "qty": "60 g",
+        "amount": 60.0,
+        "unit": "g",
         "name": "roquette ou pousses d'épinards"
       },
       {
-        "qty": "6 c. à soupe",
+        "amount": 6.0,
+        "unit": "c. à soupe",
         "name": "huile d'olive"
       },
       {
-        "qty": "2 c. à soupe",
+        "amount": 2.0,
+        "unit": "c. à soupe",
         "name": "vinaigre balsamique"
       },
       {
-        "qty": "1 c. à café",
+        "amount": 1.0,
+        "unit": "c. à café",
         "name": "sel"
       },
       {
-        "qty": "0,5 c. à café",
+        "amount": 0.5,
+        "unit": "c. à café",
         "name": "poivre"
       }
     ],
@@ -589,46 +702,57 @@
     "title": "Salade façon niçoise au thon et haricots verts",
     "category": "Poisson",
     "proteinPerServing": 34,
+    "baseServings": 5,
     "desc": "Pâtes, thon, olives, câpres, haricots verts. Environ 34g de protéines par portion.",
     "ingredients": [
       {
-        "qty": "350 g",
+        "amount": 350.0,
+        "unit": "g",
         "name": "pâtes semi-complètes (type coquillettes)"
       },
       {
-        "qty": "400 g",
+        "amount": 400.0,
+        "unit": "g",
         "name": "thon au naturel égoutté"
       },
       {
-        "qty": "300 g",
+        "amount": 300.0,
+        "unit": "g",
         "name": "haricots verts"
       },
       {
-        "qty": "5",
+        "amount": 5.0,
+        "unit": "",
         "name": "grands œufs"
       },
       {
-        "qty": "150 g",
+        "amount": 150.0,
+        "unit": "g",
         "name": "olives noires dénoyautées"
       },
       {
-        "qty": "30 g",
+        "amount": 30.0,
+        "unit": "g",
         "name": "câpres égouttées"
       },
       {
-        "qty": "6 c. à soupe",
+        "amount": 6.0,
+        "unit": "c. à soupe",
         "name": "huile d'olive"
       },
       {
-        "qty": "2 c. à soupe",
+        "amount": 2.0,
+        "unit": "c. à soupe",
         "name": "vinaigre de vin"
       },
       {
-        "qty": "1 c. à soupe",
+        "amount": 1.0,
+        "unit": "c. à soupe",
         "name": "moutarde"
       },
       {
-        "qty": "1 c. à café",
+        "amount": 1.0,
+        "unit": "c. à café",
         "name": "sel"
       }
     ],
@@ -647,42 +771,52 @@
     "title": "Salade au poulet, riz sauvage et canneberges",
     "category": "Viande",
     "proteinPerServing": 37,
+    "baseServings": 5,
     "desc": "Riz sauvage, poulet, canneberges séchées, noix. Environ 37g de protéines par portion.",
     "ingredients": [
       {
-        "qty": "280 g",
+        "amount": 280.0,
+        "unit": "g",
         "name": "riz sauvage ou mélange riz sauvage/basmati cru"
       },
       {
-        "qty": "600 g",
+        "amount": 600.0,
+        "unit": "g",
         "name": "blancs de poulet"
       },
       {
-        "qty": "100 g",
+        "amount": 100.0,
+        "unit": "g",
         "name": "canneberges séchées"
       },
       {
-        "qty": "80 g",
+        "amount": 80.0,
+        "unit": "g",
         "name": "noix concassées"
       },
       {
-        "qty": "200 g",
+        "amount": 200.0,
+        "unit": "g",
         "name": "fromage de chèvre en dés"
       },
       {
-        "qty": "200 g",
+        "amount": 200.0,
+        "unit": "g",
         "name": "carottes râpées"
       },
       {
-        "qty": "6 c. à soupe",
+        "amount": 6.0,
+        "unit": "c. à soupe",
         "name": "huile d'olive"
       },
       {
-        "qty": "2 c. à soupe",
+        "amount": 2.0,
+        "unit": "c. à soupe",
         "name": "vinaigre balsamique"
       },
       {
-        "qty": "1 c. à café",
+        "amount": 1.0,
+        "unit": "c. à café",
         "name": "sel"
       }
     ],
@@ -700,42 +834,52 @@
     "title": "Salade aux sardines, riz complet et persil-citron",
     "category": "Poisson",
     "proteinPerServing": 33,
+    "baseServings": 5,
     "desc": "Sardines, riz complet, poivron, persil-citron. Environ 33g de protéines par portion.",
     "ingredients": [
       {
-        "qty": "300 g",
+        "amount": 300.0,
+        "unit": "g",
         "name": "riz complet cru"
       },
       {
-        "qty": "4",
+        "amount": 4.0,
+        "unit": "",
         "name": "boîtes de sardines au naturel égouttées"
       },
       {
-        "qty": "5",
+        "amount": 5.0,
+        "unit": "",
         "name": "grands œufs"
       },
       {
-        "qty": "2",
+        "amount": 2.0,
+        "unit": "",
         "name": "poivron rouge"
       },
       {
-        "qty": "100 g",
+        "amount": 100.0,
+        "unit": "g",
         "name": "oignon rouge"
       },
       {
-        "qty": "40 g",
+        "amount": 40.0,
+        "unit": "g",
         "name": "persil frais haché"
       },
       {
-        "qty": "6 c. à soupe",
+        "amount": 6.0,
+        "unit": "c. à soupe",
         "name": "huile d'olive"
       },
       {
-        "qty": "3 c. à soupe",
+        "amount": 3.0,
+        "unit": "c. à soupe",
         "name": "jus de citron"
       },
       {
-        "qty": "1 c. à café",
+        "amount": 1.0,
+        "unit": "c. à café",
         "name": "sel"
       }
     ],
@@ -754,46 +898,57 @@
     "title": "Salade au jambon de dinde, boulgour et petits pois",
     "category": "Viande",
     "proteinPerServing": 35,
+    "baseServings": 5,
     "desc": "Boulgour, jambon de dinde, petits pois, feta. Environ 35g de protéines par portion.",
     "ingredients": [
       {
-        "qty": "280 g",
+        "amount": 280.0,
+        "unit": "g",
         "name": "boulgour cru"
       },
       {
-        "qty": "500 g",
+        "amount": 500.0,
+        "unit": "g",
         "name": "jambon de dinde en dés"
       },
       {
-        "qty": "300 g",
+        "amount": 300.0,
+        "unit": "g",
         "name": "petits pois cuits"
       },
       {
-        "qty": "5",
+        "amount": 5.0,
+        "unit": "",
         "name": "grands œufs"
       },
       {
-        "qty": "200 g",
+        "amount": 200.0,
+        "unit": "g",
         "name": "feta"
       },
       {
-        "qty": "1",
+        "amount": 1.0,
+        "unit": "",
         "name": "concombre"
       },
       {
-        "qty": "60 g",
+        "amount": 60.0,
+        "unit": "g",
         "name": "graines de tournesol"
       },
       {
-        "qty": "6 c. à soupe",
+        "amount": 6.0,
+        "unit": "c. à soupe",
         "name": "huile d'olive"
       },
       {
-        "qty": "2 c. à soupe",
+        "amount": 2.0,
+        "unit": "c. à soupe",
         "name": "jus de citron"
       },
       {
-        "qty": "1 c. à café",
+        "amount": 1.0,
+        "unit": "c. à café",
         "name": "sel"
       }
     ],
@@ -813,46 +968,57 @@
     "title": "Salade végétarienne aux œufs, cottage cheese et radis",
     "category": "Végétarien",
     "proteinPerServing": 32,
+    "baseServings": 5,
     "desc": "Œufs, cottage cheese, quinoa, radis. Environ 32g de protéines par portion.",
     "ingredients": [
       {
-        "qty": "250 g",
+        "amount": 250.0,
+        "unit": "g",
         "name": "quinoa cru"
       },
       {
-        "qty": "10",
+        "amount": 10.0,
+        "unit": "",
         "name": "grands œufs"
       },
       {
-        "qty": "400 g",
+        "amount": 400.0,
+        "unit": "g",
         "name": "cottage cheese ou fromage blanc épaissi"
       },
       {
-        "qty": "200 g",
+        "amount": 200.0,
+        "unit": "g",
         "name": "radis"
       },
       {
-        "qty": "1",
+        "amount": 1.0,
+        "unit": "",
         "name": "concombre"
       },
       {
-        "qty": "30 g",
+        "amount": 30.0,
+        "unit": "g",
         "name": "ciboulette fraîche"
       },
       {
-        "qty": "60 g",
+        "amount": 60.0,
+        "unit": "g",
         "name": "graines de courge"
       },
       {
-        "qty": "4 c. à soupe",
+        "amount": 4.0,
+        "unit": "c. à soupe",
         "name": "huile d'olive"
       },
       {
-        "qty": "2 c. à soupe",
+        "amount": 2.0,
+        "unit": "c. à soupe",
         "name": "jus de citron"
       },
       {
-        "qty": "1 c. à café",
+        "amount": 1.0,
+        "unit": "c. à café",
         "name": "sel"
       }
     ],
@@ -871,46 +1037,57 @@
     "title": "Salade au maquereau et lentilles vertes",
     "category": "Poisson",
     "proteinPerServing": 34,
+    "baseServings": 5,
     "desc": "Maquereau, lentilles vertes, moutarde à l'ancienne. Environ 34g de protéines par portion.",
     "ingredients": [
       {
-        "qty": "300 g",
+        "amount": 300.0,
+        "unit": "g",
         "name": "lentilles vertes cuites"
       },
       {
-        "qty": "4",
+        "amount": 4.0,
+        "unit": "",
         "name": "boîtes de maquereau au naturel égouttées"
       },
       {
-        "qty": "5",
+        "amount": 5.0,
+        "unit": "",
         "name": "grands œufs"
       },
       {
-        "qty": "1",
+        "amount": 1.0,
+        "unit": "",
         "name": "échalote"
       },
       {
-        "qty": "100 g",
+        "amount": 100.0,
+        "unit": "g",
         "name": "carottes râpées"
       },
       {
-        "qty": "30 g",
+        "amount": 30.0,
+        "unit": "g",
         "name": "persil frais haché"
       },
       {
-        "qty": "5 c. à soupe",
+        "amount": 5.0,
+        "unit": "c. à soupe",
         "name": "huile d'olive"
       },
       {
-        "qty": "2 c. à soupe",
+        "amount": 2.0,
+        "unit": "c. à soupe",
         "name": "vinaigre de cidre"
       },
       {
-        "qty": "1 c. à soupe",
+        "amount": 1.0,
+        "unit": "c. à soupe",
         "name": "moutarde à l'ancienne"
       },
       {
-        "qty": "1 c. à café",
+        "amount": 1.0,
+        "unit": "c. à café",
         "name": "sel"
       }
     ],
@@ -929,42 +1106,52 @@
     "title": "Salade au filet mignon de porc, riz et pommes",
     "category": "Viande",
     "proteinPerServing": 39,
+    "baseServings": 5,
     "desc": "Filet mignon de porc, riz, pommes, noix. Environ 39g de protéines par portion.",
     "ingredients": [
       {
-        "qty": "300 g",
+        "amount": 300.0,
+        "unit": "g",
         "name": "riz cru"
       },
       {
-        "qty": "600 g",
+        "amount": 600.0,
+        "unit": "g",
         "name": "filet mignon de porc"
       },
       {
-        "qty": "2",
+        "amount": 2.0,
+        "unit": "",
         "name": "pommes acidulées (type granny smith)"
       },
       {
-        "qty": "200 g",
+        "amount": 200.0,
+        "unit": "g",
         "name": "comté ou emmental en dés"
       },
       {
-        "qty": "80 g",
+        "amount": 80.0,
+        "unit": "g",
         "name": "noix concassées"
       },
       {
-        "qty": "5 c. à soupe",
+        "amount": 5.0,
+        "unit": "c. à soupe",
         "name": "huile d'olive ou de noix"
       },
       {
-        "qty": "2 c. à soupe",
+        "amount": 2.0,
+        "unit": "c. à soupe",
         "name": "vinaigre de cidre"
       },
       {
-        "qty": "1 c. à café",
+        "amount": 1.0,
+        "unit": "c. à café",
         "name": "moutarde"
       },
       {
-        "qty": "1 c. à café",
+        "amount": 1.0,
+        "unit": "c. à café",
         "name": "sel"
       }
     ],
@@ -983,42 +1170,52 @@
     "title": "Salade au poulet façon curry, riz et raisins secs",
     "category": "Viande",
     "proteinPerServing": 38,
+    "baseServings": 5,
     "desc": "Poulet au curry, riz basmati, raisins secs, amandes. Environ 38g de protéines par portion.",
     "ingredients": [
       {
-        "qty": "300 g",
+        "amount": 300.0,
+        "unit": "g",
         "name": "riz basmati cru"
       },
       {
-        "qty": "600 g",
+        "amount": 600.0,
+        "unit": "g",
         "name": "blancs de poulet"
       },
       {
-        "qty": "2 c. à soupe",
+        "amount": 2.0,
+        "unit": "c. à soupe",
         "name": "curry en poudre"
       },
       {
-        "qty": "100 g",
+        "amount": 100.0,
+        "unit": "g",
         "name": "raisins secs"
       },
       {
-        "qty": "80 g",
+        "amount": 80.0,
+        "unit": "g",
         "name": "amandes effilées"
       },
       {
-        "qty": "200 g",
+        "amount": 200.0,
+        "unit": "g",
         "name": "carottes râpées"
       },
       {
-        "qty": "300 g",
+        "amount": 300.0,
+        "unit": "g",
         "name": "yaourt grec"
       },
       {
-        "qty": "1 c. à soupe",
+        "amount": 1.0,
+        "unit": "c. à soupe",
         "name": "jus de citron"
       },
       {
-        "qty": "1 c. à café",
+        "amount": 1.0,
+        "unit": "c. à café",
         "name": "sel"
       }
     ],
@@ -1036,42 +1233,52 @@
     "title": "Salade végétarienne à l'halloumi grillé et boulgour",
     "category": "Végétarien",
     "proteinPerServing": 30,
+    "baseServings": 5,
     "desc": "Halloumi grillé, boulgour, courgettes grillées, menthe. Environ 30g de protéines par portion.",
     "ingredients": [
       {
-        "qty": "280 g",
+        "amount": 280.0,
+        "unit": "g",
         "name": "boulgour cru"
       },
       {
-        "qty": "500 g",
+        "amount": 500.0,
+        "unit": "g",
         "name": "fromage halloumi"
       },
       {
-        "qty": "3",
+        "amount": 3.0,
+        "unit": "",
         "name": "courgettes"
       },
       {
-        "qty": "5",
+        "amount": 5.0,
+        "unit": "",
         "name": "grands œufs"
       },
       {
-        "qty": "30 g",
+        "amount": 30.0,
+        "unit": "g",
         "name": "menthe fraîche"
       },
       {
-        "qty": "60 g",
+        "amount": 60.0,
+        "unit": "g",
         "name": "pignons de pin"
       },
       {
-        "qty": "5 c. à soupe",
+        "amount": 5.0,
+        "unit": "c. à soupe",
         "name": "huile d'olive"
       },
       {
-        "qty": "2 c. à soupe",
+        "amount": 2.0,
+        "unit": "c. à soupe",
         "name": "jus de citron"
       },
       {
-        "qty": "0,5 c. à café",
+        "amount": 0.5,
+        "unit": "c. à café",
         "name": "sel"
       }
     ],
@@ -1091,38 +1298,47 @@
     "title": "Salade au magret de canard fumé et lentilles",
     "category": "Viande",
     "proteinPerServing": 35,
+    "baseServings": 5,
     "desc": "Magret de canard fumé, lentilles vertes, noisettes, betteraves. Environ 35g de protéines par portion.",
     "ingredients": [
       {
-        "qty": "300 g",
+        "amount": 300.0,
+        "unit": "g",
         "name": "lentilles vertes cuites"
       },
       {
-        "qty": "400 g",
+        "amount": 400.0,
+        "unit": "g",
         "name": "magret de canard fumé tranché"
       },
       {
-        "qty": "200 g",
+        "amount": 200.0,
+        "unit": "g",
         "name": "comté en copeaux"
       },
       {
-        "qty": "80 g",
+        "amount": 80.0,
+        "unit": "g",
         "name": "noisettes concassées"
       },
       {
-        "qty": "200 g",
+        "amount": 200.0,
+        "unit": "g",
         "name": "betteraves cuites en dés"
       },
       {
-        "qty": "5 c. à soupe",
+        "amount": 5.0,
+        "unit": "c. à soupe",
         "name": "huile d'olive"
       },
       {
-        "qty": "2 c. à soupe",
+        "amount": 2.0,
+        "unit": "c. à soupe",
         "name": "vinaigre balsamique"
       },
       {
-        "qty": "1 c. à café",
+        "amount": 1.0,
+        "unit": "c. à café",
         "name": "sel"
       }
     ],
@@ -1140,42 +1356,52 @@
     "title": "Salade exotique au thon, quinoa et mangue",
     "category": "Poisson",
     "proteinPerServing": 30,
+    "baseServings": 5,
     "desc": "Thon, quinoa, mangue, coriandre. Environ 30g de protéines par portion.",
     "ingredients": [
       {
-        "qty": "250 g",
+        "amount": 250.0,
+        "unit": "g",
         "name": "quinoa cru"
       },
       {
-        "qty": "400 g",
+        "amount": 400.0,
+        "unit": "g",
         "name": "thon au naturel égoutté"
       },
       {
-        "qty": "300 g",
+        "amount": 300.0,
+        "unit": "g",
         "name": "mangue en morceaux (au naturel ou surgelée)"
       },
       {
-        "qty": "1",
+        "amount": 1.0,
+        "unit": "",
         "name": "poivron rouge"
       },
       {
-        "qty": "80 g",
+        "amount": 80.0,
+        "unit": "g",
         "name": "noix de cajou"
       },
       {
-        "qty": "30 g",
+        "amount": 30.0,
+        "unit": "g",
         "name": "coriandre fraîche"
       },
       {
-        "qty": "3 c. à soupe",
+        "amount": 3.0,
+        "unit": "c. à soupe",
         "name": "huile de sésame ou d'olive"
       },
       {
-        "qty": "2 c. à soupe",
+        "amount": 2.0,
+        "unit": "c. à soupe",
         "name": "jus de citron vert"
       },
       {
-        "qty": "1 c. à café",
+        "amount": 1.0,
+        "unit": "c. à café",
         "name": "sel"
       }
     ],
@@ -1193,50 +1419,62 @@
     "title": "Salade marocaine au poulet et couscous",
     "category": "Viande",
     "proteinPerServing": 37,
+    "baseServings": 5,
     "desc": "Couscous, poulet épicé, raisins secs, cannelle. Environ 37g de protéines par portion.",
     "ingredients": [
       {
-        "qty": "280 g",
+        "amount": 280.0,
+        "unit": "g",
         "name": "semoule de couscous"
       },
       {
-        "qty": "600 g",
+        "amount": 600.0,
+        "unit": "g",
         "name": "blancs de poulet"
       },
       {
-        "qty": "100 g",
+        "amount": 100.0,
+        "unit": "g",
         "name": "raisins secs"
       },
       {
-        "qty": "80 g",
+        "amount": 80.0,
+        "unit": "g",
         "name": "amandes effilées"
       },
       {
-        "qty": "200 g",
+        "amount": 200.0,
+        "unit": "g",
         "name": "carottes râpées"
       },
       {
-        "qty": "30 g",
+        "amount": 30.0,
+        "unit": "g",
         "name": "menthe fraîche hachée"
       },
       {
-        "qty": "1 c. à café",
+        "amount": 1.0,
+        "unit": "c. à café",
         "name": "cannelle en poudre"
       },
       {
-        "qty": "1 c. à café",
+        "amount": 1.0,
+        "unit": "c. à café",
         "name": "cumin"
       },
       {
-        "qty": "5 c. à soupe",
+        "amount": 5.0,
+        "unit": "c. à soupe",
         "name": "huile d'olive"
       },
       {
-        "qty": "2 c. à soupe",
+        "amount": 2.0,
+        "unit": "c. à soupe",
         "name": "jus de citron"
       },
       {
-        "qty": "1 c. à café",
+        "amount": 1.0,
+        "unit": "c. à café",
         "name": "sel"
       }
     ],
@@ -1254,46 +1492,57 @@
     "title": "Salade de pâtes au jambon blanc et petits pois",
     "category": "Viande",
     "proteinPerServing": 33,
+    "baseServings": 5,
     "desc": "Jambon blanc, petits pois, emmental, cornichons. Environ 33g de protéines par portion.",
     "ingredients": [
       {
-        "qty": "350 g",
+        "amount": 350.0,
+        "unit": "g",
         "name": "pâtes (type coquillettes ou fusilli)"
       },
       {
-        "qty": "500 g",
+        "amount": 500.0,
+        "unit": "g",
         "name": "jambon blanc en dés"
       },
       {
-        "qty": "300 g",
+        "amount": 300.0,
+        "unit": "g",
         "name": "petits pois cuits"
       },
       {
-        "qty": "200 g",
+        "amount": 200.0,
+        "unit": "g",
         "name": "emmental en dés"
       },
       {
-        "qty": "80 g",
+        "amount": 80.0,
+        "unit": "g",
         "name": "cornichons émincés"
       },
       {
-        "qty": "5",
+        "amount": 5.0,
+        "unit": "",
         "name": "grands œufs"
       },
       {
-        "qty": "5 c. à soupe",
+        "amount": 5.0,
+        "unit": "c. à soupe",
         "name": "huile d'olive"
       },
       {
-        "qty": "2 c. à soupe",
+        "amount": 2.0,
+        "unit": "c. à soupe",
         "name": "vinaigre"
       },
       {
-        "qty": "1 c. à soupe",
+        "amount": 1.0,
+        "unit": "c. à soupe",
         "name": "moutarde"
       },
       {
-        "qty": "1 c. à café",
+        "amount": 1.0,
+        "unit": "c. à café",
         "name": "sel"
       }
     ],
@@ -1312,42 +1561,52 @@
     "title": "Salade au cabillaud poché et petits pois",
     "category": "Poisson",
     "proteinPerServing": 30,
+    "baseServings": 5,
     "desc": "Cabillaud poché, riz, petits pois, aneth. Environ 30g de protéines par portion.",
     "ingredients": [
       {
-        "qty": "300 g",
+        "amount": 300.0,
+        "unit": "g",
         "name": "riz cru"
       },
       {
-        "qty": "600 g",
+        "amount": 600.0,
+        "unit": "g",
         "name": "filets de cabillaud"
       },
       {
-        "qty": "300 g",
+        "amount": 300.0,
+        "unit": "g",
         "name": "petits pois cuits"
       },
       {
-        "qty": "5",
+        "amount": 5.0,
+        "unit": "",
         "name": "grands œufs"
       },
       {
-        "qty": "1",
+        "amount": 1.0,
+        "unit": "",
         "name": "citron"
       },
       {
-        "qty": "30 g",
+        "amount": 30.0,
+        "unit": "g",
         "name": "aneth frais"
       },
       {
-        "qty": "5 c. à soupe",
+        "amount": 5.0,
+        "unit": "c. à soupe",
         "name": "huile d'olive"
       },
       {
-        "qty": "1 c. à soupe",
+        "amount": 1.0,
+        "unit": "c. à soupe",
         "name": "moutarde"
       },
       {
-        "qty": "1 c. à café",
+        "amount": 1.0,
+        "unit": "c. à café",
         "name": "sel"
       }
     ],
@@ -1367,54 +1626,67 @@
     "title": "Salade végétarienne aux galettes de lentilles corail",
     "category": "Végétarien",
     "proteinPerServing": 26,
+    "baseServings": 5,
     "desc": "Galettes de lentilles corail maison, riz, légumes croquants. Environ 26g de protéines par portion.",
     "ingredients": [
       {
-        "qty": "250 g",
+        "amount": 250.0,
+        "unit": "g",
         "name": "lentilles corail cuites (bien égouttées)"
       },
       {
-        "qty": "2",
+        "amount": 2.0,
+        "unit": "",
         "name": "grands œufs (pour lier)"
       },
       {
-        "qty": "60 g",
+        "amount": 60.0,
+        "unit": "g",
         "name": "chapelure"
       },
       {
-        "qty": "1",
+        "amount": 1.0,
+        "unit": "",
         "name": "oignon émincé"
       },
       {
-        "qty": "1 c. à café",
+        "amount": 1.0,
+        "unit": "c. à café",
         "name": "cumin"
       },
       {
-        "qty": "300 g",
+        "amount": 300.0,
+        "unit": "g",
         "name": "riz cru"
       },
       {
-        "qty": "200 g",
+        "amount": 200.0,
+        "unit": "g",
         "name": "carottes râpées"
       },
       {
-        "qty": "1",
+        "amount": 1.0,
+        "unit": "",
         "name": "concombre"
       },
       {
-        "qty": "200 g",
+        "amount": 200.0,
+        "unit": "g",
         "name": "feta"
       },
       {
-        "qty": "5 c. à soupe",
+        "amount": 5.0,
+        "unit": "c. à soupe",
         "name": "huile d'olive"
       },
       {
-        "qty": "2 c. à soupe",
+        "amount": 2.0,
+        "unit": "c. à soupe",
         "name": "jus de citron"
       },
       {
-        "qty": "1 c. à café",
+        "amount": 1.0,
+        "unit": "c. à café",
         "name": "sel"
       }
     ],
@@ -1434,42 +1706,52 @@
     "title": "Salade végétarienne asiatique au tofu fumé et brocoli",
     "category": "Végétarien",
     "proteinPerServing": 24,
+    "baseServings": 5,
     "desc": "Tofu fumé mariné, riz complet, brocoli, sésame. Environ 24g de protéines par portion.",
     "ingredients": [
       {
-        "qty": "300 g",
+        "amount": 300.0,
+        "unit": "g",
         "name": "riz complet cru"
       },
       {
-        "qty": "500 g",
+        "amount": 500.0,
+        "unit": "g",
         "name": "tofu fumé en dés"
       },
       {
-        "qty": "400 g",
+        "amount": 400.0,
+        "unit": "g",
         "name": "brocoli en petits bouquets"
       },
       {
-        "qty": "200 g",
+        "amount": 200.0,
+        "unit": "g",
         "name": "carottes râpées"
       },
       {
-        "qty": "3",
+        "amount": 3.0,
+        "unit": "",
         "name": "oignons nouveaux"
       },
       {
-        "qty": "60 g",
+        "amount": 60.0,
+        "unit": "g",
         "name": "graines de sésame"
       },
       {
-        "qty": "4 c. à soupe",
+        "amount": 4.0,
+        "unit": "c. à soupe",
         "name": "sauce soja"
       },
       {
-        "qty": "2 c. à soupe",
+        "amount": 2.0,
+        "unit": "c. à soupe",
         "name": "huile de sésame"
       },
       {
-        "qty": "1 c. à café",
+        "amount": 1.0,
+        "unit": "c. à café",
         "name": "gingembre frais râpé"
       }
     ],
@@ -1489,38 +1771,47 @@
     "title": "Salade à la truite fumée, riz noir et pomme",
     "category": "Poisson",
     "proteinPerServing": 30,
+    "baseServings": 5,
     "desc": "Truite fumée, riz noir, pomme et noix. Environ 30g de protéines par portion.",
     "ingredients": [
       {
-        "qty": "280 g",
+        "amount": 280.0,
+        "unit": "g",
         "name": "riz noir (venere) cru"
       },
       {
-        "qty": "400 g",
+        "amount": 400.0,
+        "unit": "g",
         "name": "truite fumée"
       },
       {
-        "qty": "2",
+        "amount": 2.0,
+        "unit": "",
         "name": "pommes acidulées"
       },
       {
-        "qty": "80 g",
+        "amount": 80.0,
+        "unit": "g",
         "name": "noix concassées"
       },
       {
-        "qty": "1",
+        "amount": 1.0,
+        "unit": "",
         "name": "concombre"
       },
       {
-        "qty": "5 c. à soupe",
+        "amount": 5.0,
+        "unit": "c. à soupe",
         "name": "huile de noix ou d'olive"
       },
       {
-        "qty": "2 c. à soupe",
+        "amount": 2.0,
+        "unit": "c. à soupe",
         "name": "jus de citron"
       },
       {
-        "qty": "1 c. à café",
+        "amount": 1.0,
+        "unit": "c. à café",
         "name": "sel"
       }
     ],
@@ -1538,42 +1829,52 @@
     "title": "Salade aux gambas épicées, riz basmati et mangue",
     "category": "Poisson",
     "proteinPerServing": 32,
+    "baseServings": 5,
     "desc": "Gambas épicées, riz basmati, mangue et coriandre. Environ 32g de protéines par portion.",
     "ingredients": [
       {
-        "qty": "300 g",
+        "amount": 300.0,
+        "unit": "g",
         "name": "riz basmati cru"
       },
       {
-        "qty": "600 g",
+        "amount": 600.0,
+        "unit": "g",
         "name": "gambas ou grosses crevettes cuites décortiquées"
       },
       {
-        "qty": "300 g",
+        "amount": 300.0,
+        "unit": "g",
         "name": "mangue en morceaux (au naturel ou surgelée)"
       },
       {
-        "qty": "1 c. à café",
+        "amount": 1.0,
+        "unit": "c. à café",
         "name": "piment doux ou paprika fort"
       },
       {
-        "qty": "30 g",
+        "amount": 30.0,
+        "unit": "g",
         "name": "coriandre fraîche"
       },
       {
-        "qty": "1",
+        "amount": 1.0,
+        "unit": "",
         "name": "oignon rouge"
       },
       {
-        "qty": "3 c. à soupe",
+        "amount": 3.0,
+        "unit": "c. à soupe",
         "name": "huile d'olive"
       },
       {
-        "qty": "2 c. à soupe",
+        "amount": 2.0,
+        "unit": "c. à soupe",
         "name": "jus de citron vert"
       },
       {
-        "qty": "1 c. à café",
+        "amount": 1.0,
+        "unit": "c. à café",
         "name": "sel"
       }
     ],
@@ -1592,38 +1893,47 @@
     "title": "Salade aux sardines grillées et patate douce rôtie",
     "category": "Poisson",
     "proteinPerServing": 28,
+    "baseServings": 5,
     "desc": "Sardines grillées, patate douce rôtie et poivron. Environ 28g de protéines par portion.",
     "ingredients": [
       {
-        "qty": "700 g",
+        "amount": 700.0,
+        "unit": "g",
         "name": "patate douce"
       },
       {
-        "qty": "700 g",
+        "amount": 700.0,
+        "unit": "g",
         "name": "filets de sardines fraîches ou surgelées"
       },
       {
-        "qty": "2",
+        "amount": 2.0,
+        "unit": "",
         "name": "poivron rouge"
       },
       {
-        "qty": "5",
+        "amount": 5.0,
+        "unit": "",
         "name": "grands œufs"
       },
       {
-        "qty": "30 g",
+        "amount": 30.0,
+        "unit": "g",
         "name": "persil frais haché"
       },
       {
-        "qty": "5 c. à soupe",
+        "amount": 5.0,
+        "unit": "c. à soupe",
         "name": "huile d'olive"
       },
       {
-        "qty": "2 c. à soupe",
+        "amount": 2.0,
+        "unit": "c. à soupe",
         "name": "jus de citron"
       },
       {
-        "qty": "1 c. à café",
+        "amount": 1.0,
+        "unit": "c. à café",
         "name": "sel"
       }
     ],
@@ -1643,38 +1953,47 @@
     "title": "Salade basque au brebis, jambon de Bayonne et figues",
     "category": "Viande",
     "proteinPerServing": 34,
+    "baseServings": 5,
     "desc": "Fromage de brebis, jambon de Bayonne, boulgour et figues séchées. Environ 34g de protéines par portion.",
     "ingredients": [
       {
-        "qty": "280 g",
+        "amount": 280.0,
+        "unit": "g",
         "name": "boulgour cru"
       },
       {
-        "qty": "400 g",
+        "amount": 400.0,
+        "unit": "g",
         "name": "jambon de Bayonne tranché"
       },
       {
-        "qty": "250 g",
+        "amount": 250.0,
+        "unit": "g",
         "name": "fromage de brebis (ossau-iraty) en dés"
       },
       {
-        "qty": "100 g",
+        "amount": 100.0,
+        "unit": "g",
         "name": "figues séchées coupées en morceaux"
       },
       {
-        "qty": "80 g",
+        "amount": 80.0,
+        "unit": "g",
         "name": "noix concassées"
       },
       {
-        "qty": "5 c. à soupe",
+        "amount": 5.0,
+        "unit": "c. à soupe",
         "name": "huile d'olive"
       },
       {
-        "qty": "2 c. à soupe",
+        "amount": 2.0,
+        "unit": "c. à soupe",
         "name": "vinaigre balsamique"
       },
       {
-        "qty": "0,5 c. à café",
+        "amount": 0.5,
+        "unit": "c. à café",
         "name": "sel"
       }
     ],
@@ -1692,42 +2011,52 @@
     "title": "Salade à l'agneau grillé, orge perlé et menthe",
     "category": "Viande",
     "proteinPerServing": 36,
+    "baseServings": 5,
     "desc": "Agneau grillé, orge perlé, poivrons et menthe. Environ 36g de protéines par portion.",
     "ingredients": [
       {
-        "qty": "280 g",
+        "amount": 280.0,
+        "unit": "g",
         "name": "orge perlé cru"
       },
       {
-        "qty": "600 g",
+        "amount": 600.0,
+        "unit": "g",
         "name": "gigot ou filet d'agneau"
       },
       {
-        "qty": "2",
+        "amount": 2.0,
+        "unit": "",
         "name": "poivron rouge"
       },
       {
-        "qty": "200 g",
+        "amount": 200.0,
+        "unit": "g",
         "name": "feta"
       },
       {
-        "qty": "30 g",
+        "amount": 30.0,
+        "unit": "g",
         "name": "menthe fraîche hachée"
       },
       {
-        "qty": "1 c. à café",
+        "amount": 1.0,
+        "unit": "c. à café",
         "name": "cumin"
       },
       {
-        "qty": "5 c. à soupe",
+        "amount": 5.0,
+        "unit": "c. à soupe",
         "name": "huile d'olive"
       },
       {
-        "qty": "2 c. à soupe",
+        "amount": 2.0,
+        "unit": "c. à soupe",
         "name": "jus de citron"
       },
       {
-        "qty": "1 c. à café",
+        "amount": 1.0,
+        "unit": "c. à café",
         "name": "sel"
       }
     ],
@@ -1746,42 +2075,52 @@
     "title": "Salade espagnole au chorizo, riz et mozzarella",
     "category": "Viande",
     "proteinPerServing": 33,
+    "baseServings": 5,
     "desc": "Chorizo, riz, poivrons et mozzarella. Environ 33g de protéines par portion.",
     "ingredients": [
       {
-        "qty": "300 g",
+        "amount": 300.0,
+        "unit": "g",
         "name": "riz cru"
       },
       {
-        "qty": "400 g",
+        "amount": 400.0,
+        "unit": "g",
         "name": "chorizo doux ou fort en dés"
       },
       {
-        "qty": "5",
+        "amount": 5.0,
+        "unit": "",
         "name": "grands œufs"
       },
       {
-        "qty": "2",
+        "amount": 2.0,
+        "unit": "",
         "name": "poivron rouge"
       },
       {
-        "qty": "200 g",
+        "amount": 200.0,
+        "unit": "g",
         "name": "mozzarella en dés"
       },
       {
-        "qty": "30 g",
+        "amount": 30.0,
+        "unit": "g",
         "name": "persil frais haché"
       },
       {
-        "qty": "4 c. à soupe",
+        "amount": 4.0,
+        "unit": "c. à soupe",
         "name": "huile d'olive"
       },
       {
-        "qty": "2 c. à soupe",
+        "amount": 2.0,
+        "unit": "c. à soupe",
         "name": "vinaigre de vin"
       },
       {
-        "qty": "0,5 c. à café",
+        "amount": 0.5,
+        "unit": "c. à café",
         "name": "sel"
       }
     ],
@@ -1801,38 +2140,47 @@
     "title": "Salade au jambon cru, épeautre et parmesan",
     "category": "Viande",
     "proteinPerServing": 31,
+    "baseServings": 5,
     "desc": "Jambon cru, épeautre et parmesan. Environ 31g de protéines par portion.",
     "ingredients": [
       {
-        "qty": "300 g",
+        "amount": 300.0,
+        "unit": "g",
         "name": "épeautre cru"
       },
       {
-        "qty": "350 g",
+        "amount": 350.0,
+        "unit": "g",
         "name": "jambon cru (Bayonne, Parme ou Serrano) tranché"
       },
       {
-        "qty": "150 g",
+        "amount": 150.0,
+        "unit": "g",
         "name": "parmesan en copeaux"
       },
       {
-        "qty": "200 g",
+        "amount": 200.0,
+        "unit": "g",
         "name": "tomates séchées à l'huile, égouttées"
       },
       {
-        "qty": "60 g",
+        "amount": 60.0,
+        "unit": "g",
         "name": "pignons de pin"
       },
       {
-        "qty": "4 c. à soupe",
+        "amount": 4.0,
+        "unit": "c. à soupe",
         "name": "huile d'olive"
       },
       {
-        "qty": "2 c. à soupe",
+        "amount": 2.0,
+        "unit": "c. à soupe",
         "name": "vinaigre balsamique"
       },
       {
-        "qty": "0,5 c. à café",
+        "amount": 0.5,
+        "unit": "c. à café",
         "name": "sel"
       }
     ],
@@ -1850,38 +2198,47 @@
     "title": "Salade méditerranéenne aux anchois, riz et olives",
     "category": "Poisson",
     "proteinPerServing": 34,
+    "baseServings": 5,
     "desc": "Anchois, riz, thon, olives et câpres. Environ 34g de protéines par portion.",
     "ingredients": [
       {
-        "qty": "300 g",
+        "amount": 300.0,
+        "unit": "g",
         "name": "riz cru"
       },
       {
-        "qty": "200 g",
+        "amount": 200.0,
+        "unit": "g",
         "name": "filets d'anchois à l'huile, égouttés"
       },
       {
-        "qty": "400 g",
+        "amount": 400.0,
+        "unit": "g",
         "name": "thon au naturel égoutté"
       },
       {
-        "qty": "150 g",
+        "amount": 150.0,
+        "unit": "g",
         "name": "olives noires dénoyautées"
       },
       {
-        "qty": "30 g",
+        "amount": 30.0,
+        "unit": "g",
         "name": "câpres égouttées"
       },
       {
-        "qty": "2",
+        "amount": 2.0,
+        "unit": "",
         "name": "poivron jaune"
       },
       {
-        "qty": "5 c. à soupe",
+        "amount": 5.0,
+        "unit": "c. à soupe",
         "name": "huile d'olive"
       },
       {
-        "qty": "2 c. à soupe",
+        "amount": 2.0,
+        "unit": "c. à soupe",
         "name": "jus de citron"
       }
     ],
@@ -1899,38 +2256,47 @@
     "title": "Salade au crabe, riz et mangue",
     "category": "Poisson",
     "proteinPerServing": 26,
+    "baseServings": 5,
     "desc": "Crabe (ou surimi), riz, mangue et coriandre. Environ 26g de protéines par portion.",
     "ingredients": [
       {
-        "qty": "300 g",
+        "amount": 300.0,
+        "unit": "g",
         "name": "riz cru"
       },
       {
-        "qty": "500 g",
+        "amount": 500.0,
+        "unit": "g",
         "name": "chair de crabe ou bâtonnets de surimi"
       },
       {
-        "qty": "5",
+        "amount": 5.0,
+        "unit": "",
         "name": "grands œufs"
       },
       {
-        "qty": "300 g",
+        "amount": 300.0,
+        "unit": "g",
         "name": "mangue en morceaux (au naturel ou surgelée)"
       },
       {
-        "qty": "30 g",
+        "amount": 30.0,
+        "unit": "g",
         "name": "coriandre fraîche"
       },
       {
-        "qty": "3 c. à soupe",
+        "amount": 3.0,
+        "unit": "c. à soupe",
         "name": "huile de sésame ou d'olive"
       },
       {
-        "qty": "2 c. à soupe",
+        "amount": 2.0,
+        "unit": "c. à soupe",
         "name": "jus de citron vert"
       },
       {
-        "qty": "1 c. à café",
+        "amount": 1.0,
+        "unit": "c. à café",
         "name": "sel"
       }
     ],
@@ -1949,42 +2315,52 @@
     "title": "Salade façon tortilla aux œufs, pommes de terre et lardons",
     "category": "Viande",
     "proteinPerServing": 27,
+    "baseServings": 5,
     "desc": "Œufs, pommes de terre et lardons façon tortilla espagnole. Environ 27g de protéines par portion.",
     "ingredients": [
       {
-        "qty": "700 g",
+        "amount": 700.0,
+        "unit": "g",
         "name": "pommes de terre à chair ferme"
       },
       {
-        "qty": "10",
+        "amount": 10.0,
+        "unit": "",
         "name": "grands œufs"
       },
       {
-        "qty": "200 g",
+        "amount": 200.0,
+        "unit": "g",
         "name": "lardons fumés"
       },
       {
-        "qty": "80 g",
+        "amount": 80.0,
+        "unit": "g",
         "name": "cornichons émincés"
       },
       {
-        "qty": "1",
+        "amount": 1.0,
+        "unit": "",
         "name": "oignon"
       },
       {
-        "qty": "5 c. à soupe",
+        "amount": 5.0,
+        "unit": "c. à soupe",
         "name": "huile d'olive"
       },
       {
-        "qty": "1 c. à soupe",
+        "amount": 1.0,
+        "unit": "c. à soupe",
         "name": "moutarde"
       },
       {
-        "qty": "2 c. à soupe",
+        "amount": 2.0,
+        "unit": "c. à soupe",
         "name": "vinaigre"
       },
       {
-        "qty": "1 c. à café",
+        "amount": 1.0,
+        "unit": "c. à café",
         "name": "sel"
       }
     ],
@@ -2003,38 +2379,47 @@
     "title": "Salade aux merguez, semoule et harissa-yaourt",
     "category": "Viande",
     "proteinPerServing": 30,
+    "baseServings": 5,
     "desc": "Merguez, semoule, poivrons et sauce harissa-yaourt. Environ 30g de protéines par portion.",
     "ingredients": [
       {
-        "qty": "280 g",
+        "amount": 280.0,
+        "unit": "g",
         "name": "semoule de couscous"
       },
       {
-        "qty": "600 g",
+        "amount": 600.0,
+        "unit": "g",
         "name": "merguez"
       },
       {
-        "qty": "2",
+        "amount": 2.0,
+        "unit": "",
         "name": "poivron rouge"
       },
       {
-        "qty": "200 g",
+        "amount": 200.0,
+        "unit": "g",
         "name": "carottes râpées"
       },
       {
-        "qty": "30 g",
+        "amount": 30.0,
+        "unit": "g",
         "name": "coriandre fraîche"
       },
       {
-        "qty": "300 g",
+        "amount": 300.0,
+        "unit": "g",
         "name": "yaourt grec"
       },
       {
-        "qty": "1 c. à café",
+        "amount": 1.0,
+        "unit": "c. à café",
         "name": "harissa"
       },
       {
-        "qty": "1 c. à soupe",
+        "amount": 1.0,
+        "unit": "c. à soupe",
         "name": "jus de citron"
       }
     ],
@@ -2053,42 +2438,52 @@
     "title": "Salade façon lyonnaise aux lardons et lentilles",
     "category": "Viande",
     "proteinPerServing": 35,
+    "baseServings": 5,
     "desc": "Lardons, lentilles vertes et moutarde. Environ 35g de protéines par portion.",
     "ingredients": [
       {
-        "qty": "300 g",
+        "amount": 300.0,
+        "unit": "g",
         "name": "lentilles vertes cuites"
       },
       {
-        "qty": "300 g",
+        "amount": 300.0,
+        "unit": "g",
         "name": "lardons fumés"
       },
       {
-        "qty": "10",
+        "amount": 10.0,
+        "unit": "",
         "name": "grands œufs"
       },
       {
-        "qty": "1",
+        "amount": 1.0,
+        "unit": "",
         "name": "échalote"
       },
       {
-        "qty": "30 g",
+        "amount": 30.0,
+        "unit": "g",
         "name": "persil frais haché"
       },
       {
-        "qty": "4 c. à soupe",
+        "amount": 4.0,
+        "unit": "c. à soupe",
         "name": "huile d'olive"
       },
       {
-        "qty": "2 c. à soupe",
+        "amount": 2.0,
+        "unit": "c. à soupe",
         "name": "vinaigre de vin"
       },
       {
-        "qty": "1 c. à soupe",
+        "amount": 1.0,
+        "unit": "c. à soupe",
         "name": "moutarde"
       },
       {
-        "qty": "0,5 c. à café",
+        "amount": 0.5,
+        "unit": "c. à café",
         "name": "sel"
       }
     ],
@@ -2108,38 +2503,47 @@
     "title": "Salade nordique au hareng fumé et pommes de terre",
     "category": "Poisson",
     "proteinPerServing": 26,
+    "baseServings": 5,
     "desc": "Hareng fumé, pommes de terre, pomme et oignon rouge. Environ 26g de protéines par portion.",
     "ingredients": [
       {
-        "qty": "700 g",
+        "amount": 700.0,
+        "unit": "g",
         "name": "pommes de terre à chair ferme"
       },
       {
-        "qty": "400 g",
+        "amount": 400.0,
+        "unit": "g",
         "name": "filets de hareng fumé"
       },
       {
-        "qty": "2",
+        "amount": 2.0,
+        "unit": "",
         "name": "pommes acidulées"
       },
       {
-        "qty": "100 g",
+        "amount": 100.0,
+        "unit": "g",
         "name": "oignon rouge"
       },
       {
-        "qty": "30 g",
+        "amount": 30.0,
+        "unit": "g",
         "name": "aneth frais"
       },
       {
-        "qty": "4 c. à soupe",
+        "amount": 4.0,
+        "unit": "c. à soupe",
         "name": "huile d'olive"
       },
       {
-        "qty": "2 c. à soupe",
+        "amount": 2.0,
+        "unit": "c. à soupe",
         "name": "vinaigre de cidre"
       },
       {
-        "qty": "1 c. à café",
+        "amount": 1.0,
+        "unit": "c. à café",
         "name": "moutarde"
       }
     ],
@@ -2157,38 +2561,47 @@
     "title": "Salade au canard confit, lentilles et figues",
     "category": "Viande",
     "proteinPerServing": 32,
+    "baseServings": 5,
     "desc": "Canard confit effiloché, lentilles vertes, figues séchées et noisettes. Environ 32g de protéines par portion.",
     "ingredients": [
       {
-        "qty": "300 g",
+        "amount": 300.0,
+        "unit": "g",
         "name": "lentilles vertes cuites"
       },
       {
-        "qty": "5",
+        "amount": 5.0,
+        "unit": "",
         "name": "cuisses de canard confit"
       },
       {
-        "qty": "100 g",
+        "amount": 100.0,
+        "unit": "g",
         "name": "figues séchées coupées en morceaux"
       },
       {
-        "qty": "80 g",
+        "amount": 80.0,
+        "unit": "g",
         "name": "noisettes concassées"
       },
       {
-        "qty": "200 g",
+        "amount": 200.0,
+        "unit": "g",
         "name": "carottes râpées"
       },
       {
-        "qty": "4 c. à soupe",
+        "amount": 4.0,
+        "unit": "c. à soupe",
         "name": "huile d'olive"
       },
       {
-        "qty": "2 c. à soupe",
+        "amount": 2.0,
+        "unit": "c. à soupe",
         "name": "vinaigre balsamique"
       },
       {
-        "qty": "0,5 c. à café",
+        "amount": 0.5,
+        "unit": "c. à café",
         "name": "sel"
       }
     ],
@@ -2206,38 +2619,47 @@
     "title": "Salade au veau, quinoa et courgettes grillées",
     "category": "Viande",
     "proteinPerServing": 37,
+    "baseServings": 5,
     "desc": "Veau grillé, quinoa, courgettes grillées et menthe. Environ 37g de protéines par portion.",
     "ingredients": [
       {
-        "qty": "250 g",
+        "amount": 250.0,
+        "unit": "g",
         "name": "quinoa cru"
       },
       {
-        "qty": "600 g",
+        "amount": 600.0,
+        "unit": "g",
         "name": "escalopes de veau"
       },
       {
-        "qty": "3",
+        "amount": 3.0,
+        "unit": "",
         "name": "courgettes"
       },
       {
-        "qty": "200 g",
+        "amount": 200.0,
+        "unit": "g",
         "name": "parmesan en copeaux"
       },
       {
-        "qty": "30 g",
+        "amount": 30.0,
+        "unit": "g",
         "name": "menthe fraîche hachée"
       },
       {
-        "qty": "5 c. à soupe",
+        "amount": 5.0,
+        "unit": "c. à soupe",
         "name": "huile d'olive"
       },
       {
-        "qty": "2 c. à soupe",
+        "amount": 2.0,
+        "unit": "c. à soupe",
         "name": "jus de citron"
       },
       {
-        "qty": "1 c. à café",
+        "amount": 1.0,
+        "unit": "c. à café",
         "name": "sel"
       }
     ],
@@ -2256,34 +2678,42 @@
     "title": "Salade à la bresaola, riz et parmesan",
     "category": "Viande",
     "proteinPerServing": 29,
+    "baseServings": 5,
     "desc": "Bœuf séché (bresaola), riz, parmesan et pignons. Environ 29g de protéines par portion.",
     "ingredients": [
       {
-        "qty": "300 g",
+        "amount": 300.0,
+        "unit": "g",
         "name": "riz cru"
       },
       {
-        "qty": "350 g",
+        "amount": 350.0,
+        "unit": "g",
         "name": "bresaola (bœuf séché) tranchée"
       },
       {
-        "qty": "150 g",
+        "amount": 150.0,
+        "unit": "g",
         "name": "parmesan en copeaux"
       },
       {
-        "qty": "150 g",
+        "amount": 150.0,
+        "unit": "g",
         "name": "tomates séchées à l'huile, égouttées"
       },
       {
-        "qty": "60 g",
+        "amount": 60.0,
+        "unit": "g",
         "name": "pignons de pin"
       },
       {
-        "qty": "4 c. à soupe",
+        "amount": 4.0,
+        "unit": "c. à soupe",
         "name": "huile d'olive"
       },
       {
-        "qty": "2 c. à soupe",
+        "amount": 2.0,
+        "unit": "c. à soupe",
         "name": "jus de citron"
       }
     ],
@@ -2301,38 +2731,47 @@
     "title": "Salade végétarienne à la ricotta, épinards et quinoa",
     "category": "Végétarien",
     "proteinPerServing": 24,
+    "baseServings": 5,
     "desc": "Ricotta, épinards cuits, quinoa et noix. Environ 24g de protéines par portion.",
     "ingredients": [
       {
-        "qty": "250 g",
+        "amount": 250.0,
+        "unit": "g",
         "name": "quinoa cru"
       },
       {
-        "qty": "500 g",
+        "amount": 500.0,
+        "unit": "g",
         "name": "ricotta"
       },
       {
-        "qty": "400 g",
+        "amount": 400.0,
+        "unit": "g",
         "name": "épinards frais"
       },
       {
-        "qty": "200 g",
+        "amount": 200.0,
+        "unit": "g",
         "name": "carottes râpées"
       },
       {
-        "qty": "80 g",
+        "amount": 80.0,
+        "unit": "g",
         "name": "noix concassées"
       },
       {
-        "qty": "4 c. à soupe",
+        "amount": 4.0,
+        "unit": "c. à soupe",
         "name": "huile d'olive"
       },
       {
-        "qty": "2 c. à soupe",
+        "amount": 2.0,
+        "unit": "c. à soupe",
         "name": "jus de citron"
       },
       {
-        "qty": "1 c. à café",
+        "amount": 1.0,
+        "unit": "c. à café",
         "name": "sel"
       }
     ],
@@ -2350,38 +2789,47 @@
     "title": "Salade végétarienne au tempeh et brocoli",
     "category": "Végétarien",
     "proteinPerServing": 27,
+    "baseServings": 5,
     "desc": "Tempeh mariné, riz, brocoli et cacahuètes. Environ 27g de protéines par portion.",
     "ingredients": [
       {
-        "qty": "300 g",
+        "amount": 300.0,
+        "unit": "g",
         "name": "riz complet cru"
       },
       {
-        "qty": "500 g",
+        "amount": 500.0,
+        "unit": "g",
         "name": "tempeh en dés"
       },
       {
-        "qty": "400 g",
+        "amount": 400.0,
+        "unit": "g",
         "name": "brocoli en petits bouquets"
       },
       {
-        "qty": "200 g",
+        "amount": 200.0,
+        "unit": "g",
         "name": "carottes râpées"
       },
       {
-        "qty": "60 g",
+        "amount": 60.0,
+        "unit": "g",
         "name": "cacahuètes concassées"
       },
       {
-        "qty": "4 c. à soupe",
+        "amount": 4.0,
+        "unit": "c. à soupe",
         "name": "sauce soja"
       },
       {
-        "qty": "2 c. à soupe",
+        "amount": 2.0,
+        "unit": "c. à soupe",
         "name": "huile de sésame"
       },
       {
-        "qty": "1 c. à café",
+        "amount": 1.0,
+        "unit": "c. à café",
         "name": "gingembre frais râpé"
       }
     ],
@@ -2400,42 +2848,52 @@
     "title": "Salade végétarienne au seitan façon teriyaki",
     "category": "Végétarien",
     "proteinPerServing": 26,
+    "baseServings": 5,
     "desc": "Seitan façon teriyaki, riz et légumes. Environ 26g de protéines par portion.",
     "ingredients": [
       {
-        "qty": "300 g",
+        "amount": 300.0,
+        "unit": "g",
         "name": "riz cru"
       },
       {
-        "qty": "500 g",
+        "amount": 500.0,
+        "unit": "g",
         "name": "seitan en tranches"
       },
       {
-        "qty": "200 g",
+        "amount": 200.0,
+        "unit": "g",
         "name": "carottes râpées"
       },
       {
-        "qty": "200 g",
+        "amount": 200.0,
+        "unit": "g",
         "name": "pois gourmands ou haricots verts"
       },
       {
-        "qty": "3",
+        "amount": 3.0,
+        "unit": "",
         "name": "oignons nouveaux"
       },
       {
-        "qty": "60 g",
+        "amount": 60.0,
+        "unit": "g",
         "name": "graines de sésame"
       },
       {
-        "qty": "4 c. à soupe",
+        "amount": 4.0,
+        "unit": "c. à soupe",
         "name": "sauce soja"
       },
       {
-        "qty": "1 c. à soupe",
+        "amount": 1.0,
+        "unit": "c. à soupe",
         "name": "miel"
       },
       {
-        "qty": "1 c. à soupe",
+        "amount": 1.0,
+        "unit": "c. à soupe",
         "name": "huile de sésame"
       }
     ],
@@ -2455,38 +2913,47 @@
     "title": "Salade au poulet fumé, épeautre et pommes",
     "category": "Viande",
     "proteinPerServing": 35,
+    "baseServings": 5,
     "desc": "Poulet fumé, épeautre, pommes et noix. Environ 35g de protéines par portion.",
     "ingredients": [
       {
-        "qty": "300 g",
+        "amount": 300.0,
+        "unit": "g",
         "name": "épeautre cru"
       },
       {
-        "qty": "500 g",
+        "amount": 500.0,
+        "unit": "g",
         "name": "blancs de poulet fumé tranchés"
       },
       {
-        "qty": "2",
+        "amount": 2.0,
+        "unit": "",
         "name": "pommes acidulées"
       },
       {
-        "qty": "200 g",
+        "amount": 200.0,
+        "unit": "g",
         "name": "comté en dés"
       },
       {
-        "qty": "80 g",
+        "amount": 80.0,
+        "unit": "g",
         "name": "noix concassées"
       },
       {
-        "qty": "5 c. à soupe",
+        "amount": 5.0,
+        "unit": "c. à soupe",
         "name": "huile de noix ou d'olive"
       },
       {
-        "qty": "2 c. à soupe",
+        "amount": 2.0,
+        "unit": "c. à soupe",
         "name": "vinaigre de cidre"
       },
       {
-        "qty": "1 c. à café",
+        "amount": 1.0,
+        "unit": "c. à café",
         "name": "moutarde"
       }
     ],
@@ -2504,38 +2971,47 @@
     "title": "Salade façon brunch aux œufs, saumon fumé et asperges",
     "category": "Poisson",
     "proteinPerServing": 30,
+    "baseServings": 5,
     "desc": "Œufs, saumon fumé, asperges vertes et riz. Environ 30g de protéines par portion.",
     "ingredients": [
       {
-        "qty": "300 g",
+        "amount": 300.0,
+        "unit": "g",
         "name": "riz cru"
       },
       {
-        "qty": "300 g",
+        "amount": 300.0,
+        "unit": "g",
         "name": "saumon fumé"
       },
       {
-        "qty": "10",
+        "amount": 10.0,
+        "unit": "",
         "name": "grands œufs"
       },
       {
-        "qty": "400 g",
+        "amount": 400.0,
+        "unit": "g",
         "name": "asperges vertes"
       },
       {
-        "qty": "30 g",
+        "amount": 30.0,
+        "unit": "g",
         "name": "aneth ou ciboulette fraîche"
       },
       {
-        "qty": "4 c. à soupe",
+        "amount": 4.0,
+        "unit": "c. à soupe",
         "name": "huile d'olive"
       },
       {
-        "qty": "2 c. à soupe",
+        "amount": 2.0,
+        "unit": "c. à soupe",
         "name": "jus de citron"
       },
       {
-        "qty": "1 c. à café",
+        "amount": 1.0,
+        "unit": "c. à café",
         "name": "sel"
       }
     ],
@@ -2555,38 +3031,47 @@
     "title": "Salade façon poke au thon, riz noir et edamame",
     "category": "Poisson",
     "proteinPerServing": 33,
+    "baseServings": 5,
     "desc": "Thon mi-cuit, riz noir, edamame et sésame. Environ 33g de protéines par portion.",
     "ingredients": [
       {
-        "qty": "280 g",
+        "amount": 280.0,
+        "unit": "g",
         "name": "riz noir (venere) cru"
       },
       {
-        "qty": "600 g",
+        "amount": 600.0,
+        "unit": "g",
         "name": "pavés de thon frais"
       },
       {
-        "qty": "300 g",
+        "amount": 300.0,
+        "unit": "g",
         "name": "edamame écossés (surgelés)"
       },
       {
-        "qty": "1",
+        "amount": 1.0,
+        "unit": "",
         "name": "concombre"
       },
       {
-        "qty": "60 g",
+        "amount": 60.0,
+        "unit": "g",
         "name": "graines de sésame"
       },
       {
-        "qty": "4 c. à soupe",
+        "amount": 4.0,
+        "unit": "c. à soupe",
         "name": "sauce soja"
       },
       {
-        "qty": "2 c. à soupe",
+        "amount": 2.0,
+        "unit": "c. à soupe",
         "name": "huile de sésame"
       },
       {
-        "qty": "1 c. à soupe",
+        "amount": 1.0,
+        "unit": "c. à soupe",
         "name": "jus de citron vert"
       }
     ],
@@ -2606,38 +3091,47 @@
     "title": "Salade au saumon poêlé, riz et mangue",
     "category": "Poisson",
     "proteinPerServing": 32,
+    "baseServings": 5,
     "desc": "Saumon poêlé, riz, mangue et graines de courge. Environ 32g de protéines par portion.",
     "ingredients": [
       {
-        "qty": "300 g",
+        "amount": 300.0,
+        "unit": "g",
         "name": "riz cru"
       },
       {
-        "qty": "600 g",
+        "amount": 600.0,
+        "unit": "g",
         "name": "pavés de saumon frais"
       },
       {
-        "qty": "300 g",
+        "amount": 300.0,
+        "unit": "g",
         "name": "mangue en morceaux (au naturel ou surgelée)"
       },
       {
-        "qty": "1",
+        "amount": 1.0,
+        "unit": "",
         "name": "concombre"
       },
       {
-        "qty": "60 g",
+        "amount": 60.0,
+        "unit": "g",
         "name": "graines de courge"
       },
       {
-        "qty": "3 c. à soupe",
+        "amount": 3.0,
+        "unit": "c. à soupe",
         "name": "huile d'olive"
       },
       {
-        "qty": "2 c. à soupe",
+        "amount": 2.0,
+        "unit": "c. à soupe",
         "name": "jus de citron vert"
       },
       {
-        "qty": "1 c. à café",
+        "amount": 1.0,
+        "unit": "c. à café",
         "name": "sel"
       }
     ],
@@ -2656,42 +3150,52 @@
     "title": "Salade thaïe aux crevettes, riz jasmin et citronnelle",
     "category": "Poisson",
     "proteinPerServing": 26,
+    "baseServings": 5,
     "desc": "Crevettes, riz jasmin, citronnelle et cacahuètes. Environ 26g de protéines par portion.",
     "ingredients": [
       {
-        "qty": "300 g",
+        "amount": 300.0,
+        "unit": "g",
         "name": "riz thai jasmin cru"
       },
       {
-        "qty": "600 g",
+        "amount": 600.0,
+        "unit": "g",
         "name": "crevettes cuites décortiquées"
       },
       {
-        "qty": "200 g",
+        "amount": 200.0,
+        "unit": "g",
         "name": "carottes râpées"
       },
       {
-        "qty": "30 g",
+        "amount": 30.0,
+        "unit": "g",
         "name": "coriandre fraîche"
       },
       {
-        "qty": "60 g",
+        "amount": 60.0,
+        "unit": "g",
         "name": "cacahuètes concassées"
       },
       {
-        "qty": "1 c. à café",
+        "amount": 1.0,
+        "unit": "c. à café",
         "name": "citronnelle finement hachée ou pastéisée en tube"
       },
       {
-        "qty": "3 c. à soupe",
+        "amount": 3.0,
+        "unit": "c. à soupe",
         "name": "sauce poisson (nuoc-mam)"
       },
       {
-        "qty": "2 c. à soupe",
+        "amount": 2.0,
+        "unit": "c. à soupe",
         "name": "jus de citron vert"
       },
       {
-        "qty": "1 c. à café",
+        "amount": 1.0,
+        "unit": "c. à café",
         "name": "sucre"
       }
     ],
@@ -2709,42 +3213,52 @@
     "title": "Salade au jambon blanc, épeautre et petits pois",
     "category": "Viande",
     "proteinPerServing": 34,
+    "baseServings": 5,
     "desc": "Jambon blanc, épeautre, petits pois et comté. Environ 34g de protéines par portion.",
     "ingredients": [
       {
-        "qty": "300 g",
+        "amount": 300.0,
+        "unit": "g",
         "name": "épeautre cru"
       },
       {
-        "qty": "500 g",
+        "amount": 500.0,
+        "unit": "g",
         "name": "jambon blanc en dés"
       },
       {
-        "qty": "300 g",
+        "amount": 300.0,
+        "unit": "g",
         "name": "petits pois cuits"
       },
       {
-        "qty": "200 g",
+        "amount": 200.0,
+        "unit": "g",
         "name": "comté en dés"
       },
       {
-        "qty": "5",
+        "amount": 5.0,
+        "unit": "",
         "name": "grands œufs"
       },
       {
-        "qty": "5 c. à soupe",
+        "amount": 5.0,
+        "unit": "c. à soupe",
         "name": "huile d'olive"
       },
       {
-        "qty": "1 c. à soupe",
+        "amount": 1.0,
+        "unit": "c. à soupe",
         "name": "moutarde"
       },
       {
-        "qty": "2 c. à soupe",
+        "amount": 2.0,
+        "unit": "c. à soupe",
         "name": "vinaigre"
       },
       {
-        "qty": "0,5 c. à café",
+        "amount": 0.5,
+        "unit": "c. à café",
         "name": "sel"
       }
     ],
@@ -2763,38 +3277,47 @@
     "title": "Salade au poulet, patate douce rôtie et grenade",
     "category": "Viande",
     "proteinPerServing": 39,
+    "baseServings": 5,
     "desc": "Poulet, patate douce rôtie, feta et grenade. Environ 39g de protéines par portion.",
     "ingredients": [
       {
-        "qty": "700 g",
+        "amount": 700.0,
+        "unit": "g",
         "name": "patate douce"
       },
       {
-        "qty": "600 g",
+        "amount": 600.0,
+        "unit": "g",
         "name": "blancs de poulet"
       },
       {
-        "qty": "200 g",
+        "amount": 200.0,
+        "unit": "g",
         "name": "feta"
       },
       {
-        "qty": "100 g",
+        "amount": 100.0,
+        "unit": "g",
         "name": "graines de grenade"
       },
       {
-        "qty": "60 g",
+        "amount": 60.0,
+        "unit": "g",
         "name": "noix concassées"
       },
       {
-        "qty": "5 c. à soupe",
+        "amount": 5.0,
+        "unit": "c. à soupe",
         "name": "huile d'olive"
       },
       {
-        "qty": "2 c. à soupe",
+        "amount": 2.0,
+        "unit": "c. à soupe",
         "name": "jus de citron"
       },
       {
-        "qty": "1 c. à café",
+        "amount": 1.0,
+        "unit": "c. à café",
         "name": "sel"
       }
     ],
@@ -2812,38 +3335,47 @@
     "title": "Salade méditerranéenne aux calamars grillés et riz",
     "category": "Poisson",
     "proteinPerServing": 27,
+    "baseServings": 5,
     "desc": "Calamars grillés, riz, poivrons et persil-citron. Environ 27g de protéines par portion.",
     "ingredients": [
       {
-        "qty": "300 g",
+        "amount": 300.0,
+        "unit": "g",
         "name": "riz cru"
       },
       {
-        "qty": "600 g",
+        "amount": 600.0,
+        "unit": "g",
         "name": "calamars (anneaux) nettoyés"
       },
       {
-        "qty": "2",
+        "amount": 2.0,
+        "unit": "",
         "name": "poivron rouge"
       },
       {
-        "qty": "1 c. à café",
+        "amount": 1.0,
+        "unit": "c. à café",
         "name": "ail"
       },
       {
-        "qty": "30 g",
+        "amount": 30.0,
+        "unit": "g",
         "name": "persil frais haché"
       },
       {
-        "qty": "5 c. à soupe",
+        "amount": 5.0,
+        "unit": "c. à soupe",
         "name": "huile d'olive"
       },
       {
-        "qty": "2 c. à soupe",
+        "amount": 2.0,
+        "unit": "c. à soupe",
         "name": "jus de citron"
       },
       {
-        "qty": "1 c. à café",
+        "amount": 1.0,
+        "unit": "c. à café",
         "name": "sel"
       }
     ],
