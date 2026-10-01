@@ -1,5 +1,46 @@
 Salades Pro by C. Guilhem — Journal des modifications
 
+v1.5.0
+- Note de 1 à 5 étoiles dans chaque fiche (toucher la même note l'efface),
+  affichée sur la carte ; nouveau tri "Mieux notées"
+- "Déjà faite" : bouton "Je l'ai faite" qui enregistre la date, historique
+  des dates (supprimables) ; "Faite il y a…" sur la carte ; nouveau tri
+  "Pas faite depuis longtemps" (jamais faites d'abord)
+- Liste de courses (icône panier en haut, avec le nombre de salades) :
+  ajout depuis la fiche avec le nombre de portions choisi, ingrédients
+  identiques additionnés, articles à l'unité arrondis au-dessus, cases à
+  cocher, masquer les cochés, partage / copie des articles restants
+- Note perso par salade (enregistrée automatiquement)
+- Recherche par nom ou par ingrédient (sans tenir compte des accents)
+- Sauvegarde / restauration (icône disque en haut) : toutes les données
+  perso (favorites, notes, prix, historique, photos, liste de courses)
+  dans un fichier .json, pour changer de téléphone sans rien perdre
+- Correction : sur deux cartes de hauteurs différentes, le contenu de la
+  plus courte n'était plus aligné en haut
+
+v1.4.0
+- Favorites : une étoile sur chaque carte (coin haut gauche) et dans la
+  fiche recette permet de marquer ses salades préférées (enregistré sur
+  l'appareil, comme les prix et les photos)
+- Menu de tri : nouvelle section "Afficher" > "Mes favorites uniquement"
+  (cumulable avec Viande / Poisson / Végétarien et avec n'importe quel tri)
+- Nouveau tri "Favorites en premier"
+- Bandeau "Mes favorites (n) · Tout afficher" quand le filtre est actif,
+  et message d'aide si aucune favorite
+
+v1.3.2
+- "Toutes" déplacé sur la ligne du tri (à gauche), pour laisser assez de
+  place à Viande / Poisson / Végétarien sur leur propre ligne, qui ne
+  passaient plus sur petit écran
+- Ajout d'un favicon (icône d'onglet/de chargement) en plus de l'icône
+  d'écran d'accueil
+
+v1.3.1
+- Correction : les filtres Viande / Poisson / Végétarien étaient écrasés sur
+  petit écran par le bouton de tri, les rendant quasi invisibles — mis sur
+  leur propre ligne
+- Icônes ajoutées sur chaque catégorie (Toutes, Viande, Poisson, Végétarien)
+
 v1.3.0
 - Nouvelle icône de l'application : saladier en fond clair uni (sans dégradé)
 - Bouton de partage de l'application (icône en haut à droite de la liste) :
