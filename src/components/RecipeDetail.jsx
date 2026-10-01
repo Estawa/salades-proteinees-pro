@@ -4,10 +4,29 @@ import PhotoCapture from "./PhotoCapture";
 import ProteinBadge from "./ProteinBadge";
 import ServingsAndShare from "./ServingsAndShare";
 import PriceEditor from "./PriceEditor";
+import FavoriteButton from "./FavoriteButton";
+import RatingStars from "./RatingStars";
+import MadeHistory from "./MadeHistory";
+import PersonalNote from "./PersonalNote";
+import PlanButton from "./PlanButton";
 import { formatIngredientLine } from "../utils/scaling";
 
-export default function RecipeDetail({ recipe, photo, onPhotoChange, price, onPriceChange, onBack }) {
-  const [servings, setServings] = useState(recipe.baseServings);
+export default function RecipeDetail({
+  recipe,
+  photo,
+  onPhotoChange,
+  price,
+  onPriceChange,
+  favorite,
+  onToggleFavorite,
+  meta = {},
+  onMetaChange,
+  planned,
+  onPlanAdd,
+  onPlanRemove,
+  onBack,
+}) {
+  const [servings, setServings] = useState(planned ?? recipe.baseServings);
 
   return (
     <div className="pb-10">
@@ -19,7 +38,8 @@ export default function RecipeDetail({ recipe, photo, onPhotoChange, price, onPr
         >
           <ArrowLeft size={20} />
         </button>
-        <h2 className="font-semibold truncate">{recipe.title}</h2>
+        <h2 className="font-semibold truncate flex-1">{recipe.title}</h2>
+        <FavoriteButton favorite={favorite} onToggle={onToggleFavorite} />
       </div>
 
       <div className="px-4 pt-4">
@@ -39,9 +59,35 @@ export default function RecipeDetail({ recipe, photo, onPhotoChange, price, onPr
           <PriceEditor price={price} onPriceChange={onPriceChange} />
         </div>
 
+        <div className="mt-3 flex items-center justify-between gap-2">
+          <span className="text-sm font-medium">Ma note</span>
+          <RatingStars
+            rating={meta.rating ?? null}
+            onChange={(rating) => onMetaChange({ rating })}
+          />
+        </div>
+
         <div className="mt-4">
           <ServingsAndShare recipe={recipe} servings={servings} onServingsChange={setServings} />
         </div>
+
+        <div className="mt-2">
+          <PlanButton
+            planned={planned}
+            servings={servings}
+            onAdd={onPlanAdd}
+            onRemove={onPlanRemove}
+          />
+        </div>
+
+        <div className="mt-3">
+          <MadeHistory
+            dates={meta.madeDates || []}
+            onChange={(madeDates) => onMetaChange({ madeDates })}
+          />
+        </div>
+
+        <PersonalNote note={meta.note} onSave={(note) => onMetaChange({ note })} />
 
         <section className="mt-6">
           <h3 className="font-semibold mb-2">
